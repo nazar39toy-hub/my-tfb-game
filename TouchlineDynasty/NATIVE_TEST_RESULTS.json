@@ -1,0 +1,404 @@
+[
+  {
+    "name": "syntax Audio.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax AudioConfig.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Branding.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Career.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.001
+  },
+  {
+    "name": "syntax CareerScreens.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.001
+  },
+  {
+    "name": "syntax Client.client.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Diagnostics.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Economy.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax EconomyConfig.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Input.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Loans.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Locales.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.001
+  },
+  {
+    "name": "syntax Localization.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Market.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Match.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.001
+  },
+  {
+    "name": "syntax MatchConfig.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax MatchView.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Monetization.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax MonetizationConfig.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Players.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Records.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Results.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Server.server.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Storage.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax StudioQA.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Tournaments.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax Training.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax UI.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax World.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "syntax WorldConfig.lua",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "320 stable original clubs, 20 persistent divisions and 30 symmetric rounds",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.006
+  },
+  {
+    "name": "96 and 32 real-club cup fields, preliminary seeding and five-round brackets",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.002
+  },
+  {
+    "name": "International qualification is unique with explicit duplicate-winner fallback",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.004
+  },
+  {
+    "name": "Unified fixture order, no menu RNG changes, duplicate finalization rejected",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.004
+  },
+  {
+    "name": "35 seasons preserve identities, 16-club divisions, reciprocal promotion and growing records",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.367
+  },
+  {
+    "name": "Simulated penalty shootouts record football kicks and reproducible winners",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.002
+  },
+  {
+    "name": "22 role-adjusted footballers and venue semantics",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.001
+  },
+  {
+    "name": "Halftime and extra-time switch ends",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "Goals, assists and own goals are user-oriented on away venue",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "Throw-ins, corners and goal kicks have correct beneficiary",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "Simplified offside on targeted forward pass",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "Red cards remove players; substitutions cannot restore them",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "Penalty shootout decisions, early finish and no repeated finish",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.0
+  },
+  {
+    "name": "Snapshots and mode switching do not advance RNG",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.046
+  },
+  {
+    "name": "Sprinting is bounded by stamina; invalid values cannot poison state",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.003
+  },
+  {
+    "name": "Deterministic complete simulation and bounded replay/events",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 1.031
+  },
+  {
+    "name": "career 31 seasons with forfeit and duplicate finalization",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.416
+  },
+  {
+    "name": "goalkeeper reservation prevents a hole after roster turnover",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.002
+  },
+  {
+    "name": "free agent immediate resale and no repeat purchase",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.003
+  },
+  {
+    "name": "legacy v1 migration preserves club assets and does not repeat",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.004
+  },
+  {
+    "name": "localization: locale, fallback, numbers and expanded strings",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.002
+  },
+  {
+    "name": "training isolation, fixed challenge, exact-once cosmetics and tutorial steps",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.017
+  },
+  {
+    "name": "record categories, anomalous values, monotonic writes and throttled reads",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.003
+  },
+  {
+    "name": "automatic XI selects strongest eligible goalkeeper and roles",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.003
+  },
+  {
+    "name": "highlights control is limited to episodes and shootouts stay manual",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.005
+  },
+  {
+    "name": "full roster suspensions cannot deadlock finalization or farm technical defeats",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.014
+  },
+  {
+    "name": "calendar recovery is free, capped and preparation charges wages once",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.018
+  },
+  {
+    "name": "substitution preserves departed ratings, fitness and substitute experience",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.003
+  },
+  {
+    "name": "former clubs age their squads and retain bounded detail without losing cash",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.013
+  },
+  {
+    "name": "board rewards settle once, active manager contract blocks job cycling, club debts remain",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.074
+  },
+  {
+    "name": "outgoing loans reserve squad depth, split wages, advance once and block duplicate sales",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.017
+  },
+  {
+    "name": "branding filters before mutation and enforces names and premium entitlement",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.002
+  },
+  {
+    "name": "own and academy scouting use regional reports with exact-once charges",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.002
+  },
+  {
+    "name": "set-piece selection, four formation lines, shootout order and red-card keeper substitution",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.004
+  },
+  {
+    "name": "test_storage.py adapter scenarios",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.002
+  },
+  {
+    "name": "test_monetization.py adapter scenarios",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.001
+  },
+  {
+    "name": "modular UI construction and grouped pages (mock, not Studio)",
+    "status": "PASS",
+    "detail": "assertions passed",
+    "seconds": 0.044
+  }
+]

@@ -1,0 +1,582 @@
+﻿Key,English,Ukrainian
+ALREADY_NEGOTIATED,This offer has already been negotiated.,Переговори щодо цієї пропозиції вже проведено.
+ALREADY_OWNED,You already own this item.,Цей предмет уже в колекції.
+ALREADY_SCOUTED,The scouting report is already available.,Скаутський звіт уже готовий.
+COSMETIC_APPLIED,Cosmetic applied to the club.,Оформлення застосовано до клубу.
+COSMETIC_NOT_OWNED,This cosmetic is not in your collection.,Цього оформлення немає в колекції.
+COSMETIC_OWNED,Cosmetic added to your collection.,Предмет додано до колекції.
+COSMETIC_UPDATED,Cosmetic collection updated.,Колекцію оформлення оновлено.
+DUPLICATE_PLAYER,This player is already in your squad.,Цей гравець уже у складі.
+INSUFFICIENT_FUNDS,Not enough club budget.,Недостатньо бюджету клубу.
+INVALID_AMOUNT,The amount is invalid.,Некоректна сума.
+KEEPER_REQUIRED,Keep enough available goalkeepers.,Збережи достатньо доступних воротарів.
+LOAN_UNAVAILABLE,This loan action is unavailable.,Ця дія з орендою недоступна.
+LOCK_LOST,This server lost profile ownership. Rejoin to protect progress.,Сервер втратив право запису профілю. Зайди знову для захисту прогресу.
+MIGRATION_FAILED,The older career could not be converted safely. Original data was preserved.,Стару кар'єру не вдалося безпечно перетворити. Початкові дані збережено.
+NEGOTIATION_COMPLETE,Negotiation completed. Total signing cost: {amount}.,Переговори завершено. Повна вартість угоди: {amount}.
+NO_BUYER,There is no interested NPC buyer right now.,Зараз немає зацікавленого клубу-покупця.
+NO_SESSION,No active profile session. Rejoin and retry.,Немає активної сесії профілю. Зайди знову й повтори.
+OFFER_EXPIRED,This offer has expired on the football calendar.,Строк пропозиції сплив за ігровим календарем.
+OFFER_UNAVAILABLE,This offer is no longer available.,Ця пропозиція більше недоступна.
+OPERATION_FAILED,The profile operation failed. Please retry.,Операцію з профілем не виконано. Повтори запит.
+OPERATION_REJECTED,The profile operation was rejected.,Операцію з профілем відхилено.
+PASSES_CURRENT,Pass ownership refreshed.,Володіння перепустками оновлено.
+PASS_CHECK_FAILED,Pass ownership could not be checked. Retry shortly.,Не вдалося перевірити перепустки. Повтори пізніше.
+PASS_REQUIRED,This cosmetic requires the corresponding pass.,Для цього оформлення потрібна відповідна перепустка.
+PLAYER_IN_LINEUP,Move this player out of the starting eleven first.,Спочатку прибери гравця зі стартового складу.
+PLAYER_LOANED,{name} joined on loan. Signing cost: {amount}.,{name} орендований. Витрати на угоду: {amount}.
+PLAYER_LOANED_OUT,{name} loaned to {buyer}; fee {amount}.,{name} відданий в оренду в {buyer}; виплата {amount}.
+PLAYER_NOT_FOUND,Player not found.,Гравця не знайдено.
+PLAYER_NOT_OWNED,This player belongs to another club.,Цей гравець належить іншому клубу.
+PLAYER_SIGNED,{name} signed. Total signing cost: {amount}.,{name} підписаний. Повна вартість угоди: {amount}.
+PLAYER_SOLD,{name} sold. Transfer income: {amount}.,{name} проданий. Дохід від трансферу: {amount}.
+PRODUCT_NOT_CONFIGURED,This Roblox product has not been connected yet.,Цей товар Roblox ще не підключено.
+PROFILE_INVALID,The profile could not be validated. Saved data was not reset.,Профіль не пройшов перевірку. Збережені дані не скинуто.
+PROFILE_LOCKED_OR_INVALID,The career is in another session or needs validation. Please rejoin later.,Кар'єра відкрита в іншій сесії або потребує перевірки. Зайди пізніше.
+PROFILE_STALE,The profile changed. Refresh and retry.,Профіль змінився. Онови дані й повтори.
+PURCHASE_PROMPT,Complete or cancel the Roblox purchase window.,Заверши або скасуй покупку у вікні Roblox.
+PURCHASE_UNAVAILABLE,The Roblox purchase window could not be opened.,Не вдалося відкрити вікно покупки Roblox.
+RESALE_HOLD,Recently signed players cannot be sold immediately.,Нещодавно підписаних гравців не можна одразу продати.
+ROSTER_FULL,The first-team contract limit has been reached.,Досягнуто ліміту контрактів основного складу.
+SAVED,Career saved.,Кар'єру збережено.
+SCOUT_COMPLETE,Scouting report ready for {name}.,Готовий скаутський звіт про гравця {name}.
+SESSION_EXISTS,This profile session is already open.,Ця сесія профілю вже відкрита.
+SHOP_ACTION_INVALID,This shop action is unavailable.,Ця дія в магазині недоступна.
+SHOP_ITEM_INVALID,Shop item not found.,Товар не знайдено.
+SHOP_UNAVAILABLE,The club shop is temporarily unavailable.,Магазин клубу тимчасово недоступний.
+SQUAD_DEPTH_REQUIRED,Keep enough players to field a legal squad.,Збережи достатньо гравців для допустимого складу.
+STORE_BUSY,A profile operation is in progress.,Операція з профілем уже виконується.
+STORE_THROTTLED,The save service is busy. Retry shortly.,Сервіс збережень перевантажений. Повтори пізніше.
+STORE_UNAVAILABLE,Saving is temporarily unavailable. Retry shortly.,Сховище тимчасово недоступне. Повтори пізніше.
+STUDIO_PURCHASE_DISABLED,Real purchases are disabled in Studio. Use the isolated test adapter.,Реальні покупки вимкнено у Studio. Використовуй окремий тестовий адаптер.
+TEST_SESSION,Studio sandbox session: live data is not used.,Тестова сесія Studio: основні дані не використовуються.
+TOKENS_REQUIRED,Not enough cosmetic tokens.,Недостатньо косметичних жетонів.
+TOKEN_LIMIT,The cosmetic token limit has been reached.,Досягнуто ліміту косметичних жетонів.
+TRANSFER_WINDOW_CLOSED,The transfer window is closed.,Трансферне вікно закрито.
+WAGE_RESERVE_REQUIRED,Keep a reserve to cover the squad's wages.,Збережи резерв на зарплати складу.
+achievement.academy,Two academy graduates,Два випускники академії
+achievement.firstWin,First victory,Перша перемога
+achievement.promotion,Promotion,Підвищення
+achievement.tenWins,Ten victories,Десять перемог
+attribute.defending,Defending,Захист
+attribute.dribbling,Dribbling,Дриблінг
+attribute.foot,Preferred foot,Робоча нога
+attribute.form,Form,Форма
+attribute.goalkeeping,Goalkeeping,Воротарська майстерність
+attribute.handling,Handling,Гра руками
+attribute.morale,Morale,Мораль
+attribute.pace,Pace,Швидкість
+attribute.passing,Passing,Пас
+attribute.physical,Physical,Фізика
+attribute.positioning,Positioning,Вибір позиції
+attribute.reflexes,Reflexes,Реакція
+attribute.shooting,Shooting,Удар
+attribute.stamina,Stamina,Витривалість
+board.missed,The previous season’s board objective was not met. Career continues.,Мету правління минулого сезону не виконано. Кар’єра триває.
+board.reward,Board objective completed: +20 cosmetic tokens.,Мету правління виконано: +20 косметичних жетонів.
+bracket.bye,Seeded bye in round {round},Посів: пропуск раунду {round}
+bracket.round,Round {round},Раунд {round}
+bracket.winner,Winner: {club},Переможець: {club}
+club.designHelp,Palette {palette}; crest {shape}; motif {symbol}. Changes are cosmetic only.,Палітра {palette}; герб {shape}; мотив {symbol}. Зміни лише косметичні.
+club.identity,Club identity,Оформлення клубу
+club.identityHelp,"Basic naming, two palettes and two crest shapes are free. Club Identity unlocks more safe design elements.","Назва, дві палітри та дві форми герба безкоштовні. Club Identity відкриває додаткові безпечні елементи."
+club.rename,Club name,Назва клубу
+club.renameHelp,2–24 characters. Roblox filters the name before saving. One successful rename per minute.,2–24 символи. Roblox фільтрує назву перед збереженням. Одна успішна зміна на хвилину.
+code.ACADEMY_ALREADY_RECRUITED,This season’s academy intake has already taken place.,Набір академії в цьому сезоні вже проведено.
+code.ACADEMY_FULL,The academy has six players. Promote or release one first.,В академії шість гравців. Спочатку підвищте або відпустіть одного.
+code.CONTRACT_NOT_DUE,This contract already covers at least three more seasons.,Контракт уже діє ще щонайменше три сезони.
+code.GOAL_LOCKED,Choose a board priority during the first three rounds.,Пріоритет правління обирається протягом перших трьох турів.
+code.JOB_CONTRACT_ACTIVE,Your three-year manager contract is active. Offers arrive at the next season opening after expiry.,Трирічний контракт тренера ще діє. Пропозиції з’являться на початку сезону після його завершення.
+code.JOB_WINDOW_CLOSED,Manager appointments are available only at the start of a new season.,Призначення до іншого клубу доступне лише на початку нового сезону.
+code.KEEPER_REQUIRED,Keep eligible goalkeepers and assign a goalkeeper to slot 1.,Збережіть доступних воротарів; перший слот має займати воротар.
+code.MAX_LEVEL,The maximum upgrade level has been reached.,Досягнуто максимального рівня поліпшення.
+code.NAME_COOLDOWN,Wait one minute between successful renames.,Між успішними змінами назви потрібна одна хвилина.
+code.NAME_FILTER_UNAVAILABLE,Roblox filtering is unavailable. The name was not changed. Retry later.,Фільтрація Roblox недоступна. Назву не змінено. Спробуйте пізніше.
+code.NAME_INVALID,Use 2–24 valid characters without line breaks or control codes.,Використайте 2–24 допустимі символи без переносів рядків і керівних кодів.
+code.NAME_IN_USE,Another club already uses this name.,Така назва вже є в іншого клубу.
+code.NAME_REJECTED,Choose a different name accepted by the Roblox filter.,"Оберіть іншу назву, яку пропустить фільтр Roblox."
+code.NO_BUYER,No NPC club currently has demand for this player.,Зараз жоден NPC-клуб не зацікавлений у цьому гравцеві.
+code.NO_REWARD,There are no unclaimed achievement rewards.,Неотриманих нагород за досягнення немає.
+code.OFFER_EXPIRED,The offer has expired on the game calendar.,Строк пропозиції минув за ігровим календарем.
+code.OFFER_UNAVAILABLE,This offer is no longer available; refresh the market.,Пропозиція вже недоступна; оновіть ринок.
+code.PASS_REQUIRED,This element requires Club Identity. Two palettes and two basic crest shapes remain free.,Для цього елемента потрібен Club Identity. Дві палітри та дві базові форми герба безкоштовні.
+code.PLAYER_IN_LINEUP,Move this player out of the starting XI before selling.,Перед продажем приберіть гравця зі стартового складу.
+code.PLAYER_UNAVAILABLE,"The player is injured, suspended or ineligible for registration.","Гравець травмований, дискваліфікований або недоступний для реєстрації."
+code.RECOVERY_ALREADY_USED,Recovery has already been used on this game date.,Відновлення на цю ігрову дату вже використано.
+code.RECOVERY_NOT_NEEDED,Calendar recovery is sufficient before the next fixture; a paid session is unnecessary.,До наступного матчу достатньо календарного відновлення; платна процедура не потрібна.
+code.REPUTATION_REQUIRED,Your reputation does not meet this club’s appointment requirement.,Репутації недостатньо для призначення до цього клубу.
+code.RESALE_HOLD,A new signing must stay registered for 56 game days before sale.,Новачка можна продати після 56 ігрових днів реєстрації.
+code.RESTRUCTURE_USED,Restructuring is available once per season and has already been used.,Реструктуризація доступна раз на сезон і вже використана.
+code.ROSTER_FULL,The club already has 30 senior contracts. Sell a reserve before signing.,У клубі вже 30 основних контрактів. Перед підписанням продайте резервіста.
+code.SCOUT_REGION_LOCKED,Regional specialization can be changed once per season.,Регіональну спеціалізацію можна змінювати один раз за сезон.
+code.SEASON_COMPLETE,All fixtures are complete. Start the next season in the club centre.,Усі зустрічі завершено. Почніть наступний сезон у центрі клубу.
+code.SEASON_NOT_COMPLETE,Complete the remaining scheduled fixtures first.,Спочатку завершіть решту зустрічей календаря.
+code.SPONSOR_LOCKED,The sponsor can only be changed once per season.,Спонсора можна змінювати один раз за сезон.
+code.SQUAD_DEPTH_REQUIRED,Keep at least 16 players before selling.,Для продажу потрібно зберегти щонайменше 16 гравців.
+code.SQUAD_UNAVAILABLE,"Eleven eligible starters are required. Change the XI, use recovery, or accept a technical defeat to serve suspensions.","Потрібні 11 доступних гравців. Змініть склад, використайте відновлення або прийміть технічну поразку для відбуття дискваліфікацій."
+code.TRANSFER_WINDOW_CLOSED,The transfer window is closed. Next opening is shown on the calendar.,Трансферне вікно закрито. Наступне відкриття вказано в календарі.
+code.WAGE_RESERVE_REQUIRED,Keep enough cash to cover four weekly salaries for this signing.,Для підписання потрібен запас грошей на чотири тижневі зарплати гравця.
+competition.cup,Cup,Кубок
+competition.friendly,Friendly,Товариський матч
+competition.international,International cup,Міжнародний кубок
+competition.league,League,Ліга
+competition.supercup,Supercup,Суперкубок
+crest.diamond,Diamond,Ромб
+crest.round,Circle,Коло
+crest.shield,Shield,Щит
+crest.star,Star,Зірка
+difficulty.easy,Assisted,З підтримкою
+difficulty.hard,Expert,Експертна
+difficulty.normal,Standard,Стандартна
+error.alreadyClaimed,This reward has already been claimed.,Нагороду вже отримано.
+error.invalid,Invalid request.,Некоректний запит.
+error.loan,A loan player cannot be sold.,Орендованого гравця не можна продати.
+error.lockLost,Profile ownership was lost. Rejoin to protect your progress.,"Право запису профілю втрачено. Зайди знову, щоб захистити прогрес."
+error.matchActive,Finish the current match first.,Спочатку заверши поточний матч.
+error.money,Not enough club budget.,Недостатньо бюджету клубу.
+error.noTokens,Not enough cosmetic tokens.,Недостатньо косметичних жетонів.
+error.notOwned,This cosmetic item is not owned.,Цього предмета немає в колекції.
+error.player,Player not found.,Гравця не знайдено.
+error.productDisabled,This product is not connected to Roblox yet.,Цей товар ще не підключено до Roblox.
+error.rateLimited,Too many requests. Wait briefly and retry.,Забагато запитів. Трохи зачекай і повтори.
+error.receiptPending,Purchase delivery is pending. Roblox will retry automatically.,Видача покупки очікується. Roblox повторить її автоматично.
+error.resale,This player cannot be resold immediately after signing.,Гравця не можна перепродати одразу після підписання.
+error.roster,This action would leave an illegal squad.,Після дії склад стане недопустимим.
+error.save,Saving is temporarily unavailable. Retry shortly.,Збереження тимчасово недоступне. Повтори пізніше.
+error.seasonIncomplete,Complete the scheduled football dates first.,Спочатку заверши заплановані ігрові дати.
+error.server,The operation failed. Your saved career was not reset.,Операцію не виконано. Збережену кар'єру не скинуто.
+error.unavailable,This action is unavailable now.,Зараз дія недоступна.
+error.windowClosed,The transfer window is closed.,Трансферне вікно закрито.
+event.academy,{name} joined the academy intake.,{name} зарахований до академії.
+event.academy_released,Academy player released: {name}.,Гравця академії відпущено: {name}.
+event.achievement,Achievement earned: {name}.,Отримано досягнення: {name}.
+event.contract_expired,{name}'s contract has expired.,Контракт гравця {name} завершився.
+event.derby,Derby result: {club} {home}–{away} {opponent}.,Результат дербі: {club} {home}:{away} {opponent}.
+event.emergency_registration,Emergency registration: {name}.,Екстрена реєстрація: {name}.
+event.goal_complete,"Season {season}: board objective completed, +20 cosmetic tokens.","Сезон {season}: мету правління виконано, +20 косметичних жетонів."
+event.legacy_completed,The legacy season is complete.,Старий сезон завершено.
+event.loan_returned,Loan ended: {name}.,Оренду завершено: {name}.
+event.manager_renewed,Manager contract renewed through season {season}.,Контракт тренера продовжено до кінця сезону {season}.
+event.match_pen_loss,{club} {home}–{away} {opponent}: lost on penalties.,{club} {home}:{away} {opponent}: поразка за пенальті.
+event.match_pen_win,{club} {home}–{away} {opponent}: won on penalties.,{club} {home}:{away} {opponent}: перемога за пенальті.
+event.match_result,{club} {home}–{away} {opponent},{club} {home}:{away} {opponent}
+event.migrated,Your previous career has been preserved.,Попередню кар’єру збережено.
+event.promotion,The club will play in division {division}.,Клуб гратиме в дивізіоні {division}.
+event.retired,{name} has retired from football.,{name} завершив футбольну кар'єру.
+event.retirement_warning,Retirement approaching: {name}.,Наближається завершення кар’єри: {name}.
+event.season,Season {season}: place {place}; prize {prize}.,Сезон {season}: місце {place}; призові {prize}.
+event.transfer,"Transfer: {name}, amount {amount}.","Трансфер: {name}, сума {amount}."
+event.welcome,"Welcome to {club}, division {division}.","Ласкаво просимо до {club}, дивізіон {division}."
+facility.academy,Academy facilities,Інфраструктура академії
+facility.medical,Medical centre,Медичний центр
+facility.stadium,Stadium,Стадіон
+facility.training,Training centre,Тренувальний центр
+finance.broadcast,League broadcast income,Дохід від трансляцій ліги
+finance.confirmUpgrade,One-time cost: {price}. Additional weekly upkeep: {upkeep}. Confirm this budget expense?,Разова вартість: {price}. Додаткове тижневе утримання: {upkeep}. Підтвердити витрату бюджету?
+foot.left,Left,Ліва
+foot.right,Right,Права
+format.age,{age} years old,Вік: {age}
+format.contract,Contract until season {season},Контракт до сезону {season}
+format.cost,Fee {fee}; signing bonus {bonus}; agent {agent}; annual wage {wage},Трансфер {fee}; підписний бонус {bonus}; агент {agent}; зарплата за рік {wage}
+format.date,"Season {season}, day {day}","Сезон {season}, день {day}"
+format.division,Division {division},Дивізіон {division}
+format.expiry,Expires on day {day},Діє до дня {day}
+format.fixture,{home} vs {away},{home} — {away}
+format.level,Level {level},Рівень {level}
+format.money,{amount} cr,{amount} кр.
+format.players.few,{count} players,{count} гравці
+format.players.many,{count} players,{count} гравців
+format.players.one,{count} player,{count} гравець
+format.players.other,{count} players,{count} гравців
+format.score,{home} {goalsHome}–{goalsAway} {away},{home} {goalsHome}:{goalsAway} {away}
+format.season,Season {season},Сезон {season}
+goal.claimed,Reward claimed,Нагороду отримано
+goal.finance.description,"Finish debt-free, cash at least the starting balance, and no technical defeats. Reward: 20 cosmetic tokens.","Завершіть сезон без боргів, із грошима не менше початкового балансу та без технічних поразок. Нагорода: 20 косметичних жетонів."
+goal.league.description,"Finish in the top eight, with at most two technical defeats. Reward: 20 cosmetic tokens.","Завершіть сезон у першій вісімці, не більше двох технічних поразок. Нагорода: 20 косметичних жетонів."
+goal.unclaimed,Reward available — use Claim,Нагорода доступна — натисніть «Отримати»
+goal.youth.description,"Promote two academy players this season, with at most two technical defeats. Reward: 20 cosmetic tokens.","Підвищте двох вихованців за сезон, не більше двох технічних поразок. Нагорода: 20 косметичних жетонів."
+language.de,Deutsch,Deutsch
+language.en,English,English
+language.es,Español,Español
+language.fr,Français,Français
+language.ja,日本語,日本語
+language.ko,한국어,한국어
+language.pl,Polski,Polski
+language.pt-br,Português (Brasil),Português (Brasil)
+language.qps-ploc,Pseudo (+50%),Псевдопереклад (+50%)
+language.ru,Русский,Русский
+language.tr,Türkçe,Türkçe
+language.uk,Українська,Українська
+loan.confirm,{name}: loan until the end of this season. Your club pays half the wages and receives a fee of 12% of the valuation. No early recall. An NPC club must accept.,{name}: оренда до кінця поточного сезону. Ваш клуб сплачує половину зарплати й отримує 12% вартості гравця. Дострокового відкликання немає. Потрібна згода клубу NPC.
+loan.outStatus,On loan at {club} until season {season} ends; matches: {played},В оренді в {club} до кінця сезону {season}; матчів: {played}
+market.filter.affordable,Affordable fee,Доступна ціна
+market.filter.all,All players,Усі гравці
+market.filter.contract,Contract: up to two seasons,Контракт: до двох сезонів
+market.filter.favorite,Favourites,Обране
+market.filter.free,Free agents,Вільні агенти
+market.filter.strong,Rating 60+,Рейтинг 60+
+market.filter.wage,Lower wage,Невисока зарплата
+market.filter.young,Age up to 21,Вік до 21
+market.filterHelp,"Cycle filters: age ≤21, rating ≥60, price ≤half budget, below-average wage, free agent, favourites.","Фільтри: вік ≤21, рейтинг ≥60, ціна ≤половини бюджету, зарплата нижча за середню, вільні агенти, обране."
+market.impact,Projected XI strength gain: {gain}. This does not guarantee results.,Очікуваний приріст сили складу: {gain}. Результат не гарантовано.
+match.away,Away,У гостях
+match.corner,Corner kick,Кутовий
+match.ended,Full-time,Матч завершено
+match.extraTime,Extra time,Додатковий час
+match.forfeit,Forfeit: 0–3; no income or development.,Технічна поразка 0:3; без доходу та розвитку.
+match.foul,Foul,Порушення
+match.freeKick,Free kick,Штрафний
+match.fulltime,Full-time,Матч завершено
+match.goal,Goal!,Гол!
+match.goalKick,Goal kick,Удар від воріт
+match.goalkeeperRequired,Keep an eligible goalkeeper on the pitch.,Залиш доступного воротаря на полі.
+match.halftime,Half-time: adjust tactics and substitutions.,Перерва: зміни тактику та зроби заміни.
+match.highlights,Key moments,Ключові моменти
+match.home,Home,Вдома
+match.injury,Injury,Травма
+match.interception,Interception,Перехоплення
+match.kickoff,Kick-off,Початок матчу
+match.manual,Manual,Вручну
+match.offside,Offside,Офсайд
+match.opponentGoal,Opponent goal,Гол суперника
+match.pauseLimit,Both tactical pauses have been used.,Обидві тактичні паузи використано.
+match.penalties,Penalty shoot-out,Серія пенальті
+match.penalty,Penalty kick,Пенальті
+match.penaltyGoal,Penalty scored,Пенальті забито
+match.penaltyMiss,Penalty missed,Промах з пенальті
+match.penaltySave,Penalty saved,Пенальті відбито
+match.penaltySaved,Penalty saved,Пенальті відбито
+match.playerUnavailable,This player is unavailable.,Цей гравець недоступний.
+match.red,Red card — player sent off,Червона картка — гравця вилучено
+match.redCard,Red card — player sent off,Червона картка — гравця вилучено
+match.save,Goalkeeper save,Сейв воротаря
+match.simulate,Simulation,Симуляція
+match.substitution,Substitution,Заміна
+match.substitutionUnavailable,No substitution is available now.,Зараз заміна недоступна.
+match.technicalDefeat,Too many dismissals: technical defeat.,Забагато вилучень: технічна поразка.
+match.throwIn,Throw-in,Аут
+match.yellow,Yellow card,Жовта картка
+match.yellowCard,Yellow card,Жовта картка
+mentality.attack,Attacking,Атака
+mentality.balanced,Balanced,Баланс
+mentality.defend,Defensive,Оборона
+player.details,Country: {country}. Foot: {foot}. Traits: {traits}.,Країна: {country}. Нога: {foot}. Риси: {traits}.
+player.formMorale,Form: {form}; morale: {morale}.,Форма: {form}; мораль: {morale}.
+player.historyRow,"Season {season}: age {age}, rating {rating}, goals {goals}, assists {assists}","Сезон {season}: вік {age}, рейтинг {rating}, голи {goals}, передачі {assists}"
+position.DEF,Defender,Захисник
+position.FWD,Forward,Нападник
+position.GK,Goalkeeper,Воротар
+position.MID,Midfielder,Півзахисник
+records.rules,"3 points per win, 1 per draw. Separate categories for control mode and difficulty. Updates at most once per 120 seconds.","3 очки за перемогу, 1 за нічию. Окремі категорії режиму й складності. Оновлення не частіше разу за 120 секунд."
+records.title,Global career records,Глобальні рекорди кар’єри
+report.away,Your opponent had home advantage.,Перевага домашнього поля була в суперника.
+report.back,Back to report,Назад до звіту
+report.dismissal,Your team played with a dismissal.,Ваша команда грала з вилученням.
+report.factors,Match factors,Чинники матчу
+report.fewerShots,The opponent had more shots on target.,У суперника більше ударів у площину.
+report.home,Home advantage was applied.,Враховано перевагу домашнього поля.
+report.moreShots,Your team had at least as many shots on target.,У вашої команди не менше ударів у площину.
+report.neutral,Neutral venue: no home advantage; gate receipts are shared.,Нейтральне поле: домашньої переваги немає; квитки діляться порівну.
+report.onTarget,Shots on target,Удари у площину
+report.passAccuracy,Pass accuracy %,Точність пасів %
+report.possessionPercent,Possession %,Володіння %
+report.ratings,Player ratings,Оцінки гравців
+report.red,Red cards,Червоні картки
+report.shootout,Penalties: {home}–{away}.,Пенальті: {home}:{away}.
+report.shots,Shots,Удари
+report.technical,Administrative 3–0 result; individual goals and assists are not added.,Адміністративний рахунок 3:0; індивідуальні голи й асисти не нараховуються.
+report.yellow,Yellow cards,Жовті картки
+scout.report,"Scouting report: {country}, game day {day}, fee {fee}.","Скаутський звіт: {country}, ігровий день {day}, вартість {fee}."
+scout.specialism,Select a region once per season. Reports there cost 25% less and narrow potential to ±1 instead of ±2.,Оберіть регіон один раз за сезон. Звіти там дешевші на 25% і звужують потенціал до ±1 замість ±2.
+shop.badge_desc,A cosmetic badge showing your support for development.,Косметичний значок підтримки розробки.
+shop.broadcast,Broadcast Studio,Broadcast Studio
+shop.broadcast.classic,Classic broadcast,Класична трансляція
+shop.broadcastStudio,Broadcast Studio,Broadcast Studio
+shop.broadcast_cosmetic,Changes the match scoreboard accent colour. Cosmetic only.,Змінює акцентний колір табло матчу. Лише оформлення.
+shop.broadcast_desc,Broadcast colours and scoreboard presentation. Controls are unchanged.,Кольори трансляції й оформлення табло. Керування залишається незмінним.
+shop.broadcast_pro,Blue broadcast,Синя трансляція
+shop.classic,Classic club kit,Класична клубна форма
+shop.clean,Clean broadcast,Лаконічна трансляція
+shop.clubIdentity,Club Identity,Club Identity
+shop.crest.shield,Shield crest,Герб-щит
+shop.crest_desc,A safe original crest element for your club identity.,Безпечний оригінальний елемент герба клубу.
+shop.crest_star,Star crest,Зоряний герб
+shop.customization,Customisation,Оформлення
+shop.designer,Designer floodlights,Дизайнерські прожектори
+shop.donation_desc,Voluntary repeatable support. No gameplay rewards or advantages.,Добровільна повторювана підтримка. Без ігрових нагород і переваг.
+shop.donation_l,Large contribution,Великий внесок
+shop.donation_m,Medium contribution,Середній внесок
+shop.donation_s,Small contribution,Невеликий внесок
+shop.hoops,Sky hoops,Небесні кільця
+shop.identity,Club Identity,Club Identity
+shop.identity_desc,"Additional kit patterns, palettes and crest elements. Cosmetic only.","Додаткові візерунки форми, палітри й елементи герба. Лише оформлення."
+shop.kit.classic,Classic kit,Класична форма
+shop.kit.lime,Lime kit,Лаймова форма
+shop.kit.navy,Navy kit,Темно-синя форма
+shop.kit_desc,"Preview the colours and pattern, then apply them to your team.","Переглянь кольори й візерунок, потім застосуй їх до команди."
+shop.lime,Lime stripes,Лаймові смуги
+shop.night,Night atmosphere,Нічна атмосфера
+shop.passDescription,Permanent cosmetic access. Football progression stays free.,Постійний доступ до оформлення. Футбольний розвиток залишається безкоштовним.
+shop.passes,Passes,Перепустки
+shop.prompt,Confirm or cancel in the Roblox purchase window. Rewards arrive only after receipt validation.,Підтвердьте або скасуйте покупку у вікні Roblox. Видача відбудеться лише після перевірки квитанції.
+shop.requires,Requires {pass},Потрібен {pass}
+shop.stadium,Stadium Designer,Stadium Designer
+shop.stadium.classic,Classic stands,Класичні трибуни
+shop.stadiumDesigner,Stadium Designer,Stadium Designer
+shop.stadium_cosmetic,Changes the visible match pitch atmosphere. Cosmetic only.,Змінює видиму атмосферу поля в матчі. Лише оформлення.
+shop.stadium_desc,Cosmetic pitch and lighting styles. No home advantage bonus.,Оформлення поля та освітлення. Без збільшення домашньої переваги.
+shop.sunset,Sunset sash,Західна перев'язь
+shop.support,Support development,Підтримати розробку
+shop.supportDescription,A voluntary contribution. No football advantage is granted.,Добровільний внесок. Не дає переваг у футболі.
+shop.supporter,Supporter,Supporter
+shop.supporter_badge,Supporter badge,Значок прихильника
+shop.supporter_desc,Supporter badge and cosmetic collection. No football advantage.,Значок прихильника й колекція оформлення. Без футбольних переваг.
+shop.tokens,Tokens,Жетони
+shop.tokensDescription,"Tokens buy cosmetics only. They cannot be exchanged for players, budget or results.","Жетони потрібні лише для оформлення. Їх не можна обміняти на гравців, бюджет чи результати."
+shop.tokensLarge,800 cosmetic tokens,800 косметичних жетонів
+shop.tokensMedium,300 cosmetic tokens,300 косметичних жетонів
+shop.tokensSmall,100 cosmetic tokens,100 косметичних жетонів
+shop.tokens_l,800 cosmetic tokens,800 косметичних жетонів
+shop.tokens_m,300 cosmetic tokens,300 косметичних жетонів
+shop.tokens_only,Spend only on cosmetic club items. Cannot buy players or match results.,Лише на оформлення клубу. Не можна купити гравців чи результати матчів.
+shop.tokens_s,100 cosmetic tokens,100 косметичних жетонів
+sponsor.performance.description,"3,000 per completed league match plus 11,000 per win. Technical defeats pay nothing.",3 000 за завершений матч ліги та ще 11 000 за перемогу. За технічну поразку виплат немає.
+sponsor.stable.description,"8,000 per completed league match, independent of score. Technical defeats pay nothing.",8 000 за завершений матч ліги незалежно від рахунку. За технічну поразку виплат немає.
+staff.coach,Coach,Тренер
+staff.doctor,Doctor,Лікар
+staff.scout,Scout,Скаут
+status.LOAN_UNAVAILABLE,This player cannot be loaned out now.,Цього гравця зараз не можна віддати в оренду.
+status.loaded,Career loaded,Кар'єру завантажено
+status.saved,Saved,Збережено
+status.saving,Saving…,Збереження…
+status.studio,Studio sandbox: data is separate from the live game.,Тестове середовище Studio: дані відокремлені від основної гри.
+status.success,Completed,Виконано
+status.updated,Updated,Оновлено
+style.balanced,Balanced,Збалансований
+style.counter,Counterattack,Контратака
+style.counter.desc,Direct runs after recovery; less control against a deep defence.,Швидкі забігання після відбору; менше контролю проти глибокої оборони.
+style.counter.description,Direct runs after recovery; less control against a deep defence.,Швидкі забігання після відбору; менше контролю проти глибокої оборони.
+style.lowblock,Low block,Низький блок
+style.lowblock.desc,Compact defensive shape; fewer attacking runs and shots.,Компактна оборона; менше підключень та ударів.
+style.lowblock.description,Compact defensive shape; fewer attacking runs and shots.,Компактна оборона; менше підключень та ударів.
+style.possession,Possession,Володіння
+style.possession.desc,Close support and accurate passing; vulnerable to pressure and fast breaks.,Підтримка й точні паси; вразливість до пресингу та швидких контратак.
+style.possession.description,Close support and accurate passing; vulnerable to pressure and fast breaks.,Підтримка й точні паси; вразливість до пресингу та швидких контратак.
+style.press,Pressing,Пресинг
+style.press.description,Win the ball high; consumes stamina and leaves space behind.,Відбір на чужій половині; витрати витривалості та простір за спиною.
+style.pressing,Pressing,Пресинг
+style.pressing.desc,Win the ball high; consumes stamina and leaves space behind.,Відбір на чужій половині; витрати витривалості та простір за спиною.
+style.wings,Wing play,Гра флангами
+style.wings.desc,Wide outlets and crosses; fewer central passing options.,Широкі відкривання й подачі; менше варіантів пасу в центрі.
+style.wings.description,Wide outlets and crosses; fewer central passing options.,Широкі відкривання й подачі; менше варіантів пасу в центрі.
+team.auto,Choose strongest available XI,Підібрати найсильніших доступних 11
+team.autoHelp,"Uses role attributes, position eligibility and fitness. Review before confirming transfers.","Враховує характеристики ролі, доступність позиції й витривалість. Перевіряйте склад перед трансферами."
+team.preset,Free tactic preset {index},Безкоштовний пресет тактики {index}
+team.presetHelp,1: 4-3-3 possession; 2: 4-4-2 counter; 3: 5-3-2 low block. Review player roles after changing formation.,1: 4-3-3 володіння; 2: 4-4-2 контратака; 3: 5-3-2 низький блок. Після зміни схеми перевірте позиції гравців.
+team.roles,Assign roles to the selected starting slot. Sent-off or substituted takers are replaced by an eligible teammate.,Призначте ролі вибраному слоту складу. Вилученого або заміненого виконавця замінить доступний партнер.
+team.technicalForfeit,"A 0–3 defeat advances the calendar and serves suspensions. No income, goals, assists or XP; ordinary wages remain due.","Поразка 0:3 просуне календар і строк дискваліфікацій. Доходу, голів, асистів і досвіду немає; звичайні зарплати зберігаються."
+training.ended,Practice ended,Тренування завершено
+training.finishing,Finishing challenge: 3 shots on target,Випробування: 3 удари у площину
+training.fixed,"Fixed squad, normal difficulty, 90 seconds. First success: 25 cosmetic tokens. No repeat reward.","Фіксований склад, звичайна складність, 90 секунд. Перший успіх: 25 косметичних жетонів. Повторної нагороди немає."
+training.passing,Passing challenge: 6 completed passes,Випробування: 6 точних пасів
+training.pause,"Two tactical pauses per match, up to 30 seconds each. Substitutions require a stoppage.","Дві тактичні паузи за матч, до 30 секунд кожна. Заміни доступні під час зупинки."
+training.practice,Free practice,Вільне тренування
+training.recovery,"Free recovery: {rate} fitness per game day. A paid session costs {price}, adds 20 fitness and reduces injury absence by one fixture. No XP; once per game date.",Безкоштовне відновлення: {rate} витривалості за ігровий день. Процедура за {price} додає 20 та скорочує травму на одну зустріч. Досвіду немає; раз за ігрову дату.
+training.safe,"Practice never changes career dates, money, fitness or XP. Leave whenever you wish.","Тренування не змінює дати кар’єри, гроші, витривалість і досвід. Можна вийти будь-коли."
+training.step1,Move the footballer using your movement controls.,Перемістіть футболіста за допомогою керування рухом.
+training.step2,Complete a pass to a teammate.,Виконайте точний пас партнеру.
+training.step3,Hold and release shoot to make a shot.,Утримуйте та відпустіть кнопку удару.
+training.success,Challenge complete,Завдання виконано
+training.tutorial,Interactive tutorial,Інтерактивне навчання
+trait.calm,Calm,Спокійний
+trait.leader,Leader,Лідер
+trait.runner,Runner,Бігун
+trait.technician,Technician,Технічний
+ui.academy,Academy,Академія
+ui.achievements,Achievements,Досягнення
+ui.age,Age,Вік
+ui.all,All,Усі
+ui.annualCost,Annual wage commitment,Річні витрати на зарплату
+ui.appearance,Appearance,Оформлення
+ui.apply,Apply,Застосувати
+ui.assign,Assign,Призначити
+ui.auto,Automatic,Автоматично
+ui.back,Back,Назад
+ui.business,Club business,Управління клубом
+ui.buy,Sign player,Підписати
+ui.buyout,Exercise buy option,Викупити
+ui.calendar,Calendar,Календар
+ui.cancel,Cancel,Скасувати
+ui.captain,Captain,Капітан
+ui.cards,Cards,Картки
+ui.career,Career,Кар'єра
+ui.challenge,Fixed challenge,Випробування
+ui.claim,Claim reward,Отримати нагороду
+ui.close,Close,Закрити
+ui.club,Club,Клуб
+ui.clubBudget,Club budget,Бюджет клубу
+ui.colorblind,Distinct team colours,Розрізнювані кольори команд
+ui.compare,Compare,Порівняти
+ui.confirm,Confirm,Підтвердити
+ui.confirmForfeit,"Forfeit 0–3? No match income, goals, assists or development will be awarded.","Здатися з рахунком 0:3? Дохід, голи, передачі й розвиток за матч не нараховуються."
+ui.confirmJob,Join this club? Its budget and squad replace your current club; manager honours remain.,Очолити цей клуб? Його бюджет і склад замінять поточний клуб; особисті трофеї тренера збережуться.
+ui.confirmSell,Sell this player? Check the squad and budget before confirming.,Продати гравця? Перевір склад і бюджет перед підтвердженням.
+ui.continue,Continue,Продовжити
+ui.contract,Contract,Контракт
+ui.controls,Controls,Керування
+ui.corner,Corners,Кутові
+ui.cosmeticOnly,"Cosmetics only. Tokens never buy players, ratings or football money.","Лише оформлення. Жетони не купують гравців, рейтинг чи футбольні гроші."
+ui.crowd,Crowd volume,Гучність трибун
+ui.cup,Cup,Кубок
+ui.date,Football date,Ігрова дата
+ui.debt,Debt,Борг
+ui.design,Design,Оформити
+ui.details,Details,Подробиці
+ui.development,Development,Розвиток
+ui.difficulty,Difficulty,Складність
+ui.difficultyHelp,Assisted: CPU attributes ×0.93. Standard: ×1. Expert: ×1.07. No hidden score adjustments; records are separate.,"З підтримкою: характеристики CPU ×0,93. Стандарт: ×1. Експерт: ×1,07. Без прихованої зміни рахунку; рекорди окремі."
+ui.division,Division,Дивізіон
+ui.empty,Nothing here yet.,Поки нічого немає.
+ui.expenses,Expenses,Витрати
+ui.favorite,Favourite,До обраного
+ui.filter,Filter,Фільтр
+ui.finance,Financial discipline,Фінансова дисципліна
+ui.financeForecast,Season forecast,Прогноз на сезон
+ui.finances,Finances & sponsors,Фінанси та спонсори
+ui.fitness,Fitness,Готовність
+ui.football,Football,Футбол
+ui.forfeit,Forfeit match,Здатися
+ui.formation,Formation,Схема
+ui.formations,Formations,Схеми
+ui.freeAgent,Free agent,Вільний агент
+ui.freeKick,Free kicks,Штрафні
+ui.goalkeeper,Goalkeeper,Воротар
+ui.goals,Objectives,Цілі
+ui.goalsPriority,Board priority,Пріоритет правління
+ui.haptics,Haptics,Вібрація
+ui.help,Help,Допомога
+ui.highlights,Key moments,Ключові моменти
+ui.history,History & honours,Історія та нагороди
+ui.hub,Club centre,Центр клубу
+ui.identity,Club identity,Оформлення клубу
+ui.inbox,Inbox,Вхідні
+ui.income,Income,Доходи
+ui.inventory,Inventory,Інвентар
+ui.job,Manager offers,Пропозиції клубів
+ui.language,Language,Мова
+ui.league,League,Ліга
+ui.loading,Loading your career…,Завантаження кар'єри…
+ui.loan,Loan,Орендувати
+ui.loanOut,Loan out,Віддати в оренду
+ui.market,Transfers,Трансфери
+ui.matchStats,Match statistics,Статистика матчу
+ui.mentality,Mentality,Налаштованість
+ui.mode,Match mode,Режим матчу
+ui.modeHighlights,Key moments,Ключові моменти
+ui.modeManual,Full manual match,Ручний матч
+ui.modeSimulate,Quick simulation,Швидка симуляція
+ui.music,Music volume,Гучність музики
+ui.name,Name,Ім'я
+ui.negotiate,Negotiate,Переговори
+ui.net,Net cash flow,Чистий грошовий потік
+ui.networkTimeout,The server did not respond. Retry to refresh your state.,"Сервер не відповів. Повтори запит, щоб оновити дані."
+ui.nextSeason,Start next season,Почати наступний сезон
+ui.none,None,Немає
+ui.off,Off,Вимк.
+ui.on,On,Увімк.
+ui.onTarget,Shots on target,Удари у площину
+ui.owned,Owned,У колекції
+ui.palette,Palette,Палітра
+ui.pass,Pass,Пас
+ui.passes,Pass completion,Точність пасів
+ui.passing,Passing,Пас
+ui.penalty,Penalty,Пенальті
+ui.performance,Performance bonuses,Бонуси за результати
+ui.physical,Physical,Фізика
+ui.play,Play match,Грати матч
+ui.played,Played,Зіграно
+ui.playerOfMatch,Player of the match,Гравець матчу
+ui.points,Points,Очки
+ui.position,Position,Позиція
+ui.possession,Possession,Володіння
+ui.potential,Potential range,Діапазон потенціалу
+ui.practice,Free practice,Вільне тренування
+ui.pressKey,Press a key for this action.,Натисни клавішу для цієї дії.
+ui.price,Price,Ціна
+ui.priceLoading,Loading Roblox price…,Завантаження ціни Roblox…
+ui.promote,Promote to first team,Перевести до основи
+ui.purchasesDisabled,Product is not connected. Purchases are disabled.,Товар не підключено. Покупки вимкнено.
+ui.qualificationRules,Top two qualify for Champions; third and cup winner for Challenge. Duplicate winners pass places down the league table.,Перші два — Champions; третє місце та переможець кубка — Challenge. За збігу місця переходять наступним клубам таблиці.
+ui.rating,Rating,Рейтинг
+ui.recruit,Recruit academy intake,Набрати вихованців
+ui.reducedMotion,Reduce motion,Зменшити анімації
+ui.remap,Remap keys,Перепризначити клавіші
+ui.rename,Rename,Перейменувати
+ui.renew,Renew contract,Продовжити контракт
+ui.replay,Goal replay,Повтор гола
+ui.reputation,Reputation,Репутація
+ui.rest,Medical recovery,Медичне відновлення
+ui.restorePurchases,Restore pass ownership,Відновити перепустки
+ui.result,Match report,Звіт про матч
+ui.retry,Retry,Повторити
+ui.role,Role,Роль
+ui.save,Save career,Зберегти кар'єру
+ui.saveHelp,Critical changes save atomically. Studio uses a separate test store; temporary sessions do not persist.,Критичні зміни зберігаються атомарно. Studio використовує тестове сховище; тимчасові сесії не зберігаються.
+ui.scout,Scouting,Скаутинг
+ui.scoutPlayer,Scout player,Дослідити гравця
+ui.search,Search,Пошук
+ui.season,Season,Сезон
+ui.selected,Selected,Вибрано
+ui.sell,Sell player,Продати
+ui.settings,Settings,Налаштування
+ui.sfx,Effects volume,Гучність ефектів
+ui.shake,Camera shake,Тремтіння камери
+ui.shape,Shape,Форма
+ui.shoot,Shoot,Удар
+ui.shooting,Shooting,Удар
+ui.shop,Club shop,Магазин клубу
+ui.shots,Shots,Удари
+ui.simulate,Quick simulation,Швидка симуляція
+ui.skip,Skip,Пропустити
+ui.sort,Sort,Сортування
+ui.sponsor,Sponsor,Спонсор
+ui.sprint,Sprint,Спринт
+ui.squad,Squad,Склад
+ui.stable,Stable income,Стабільний дохід
+ui.stadium,Stadium,Стадіон
+ui.staff,Staff,Персонал
+ui.style,Team style,Стиль команди
+ui.styles,Team styles,Стилі гри
+ui.substitute,Substitution,Заміна
+ui.swap,Change player,Замінити
+ui.switch,Switch player,Змінити гравця
+ui.symbol,Motif,Мотив
+ui.table,Standings,Турнірна таблиця
+ui.tackle,Tackle,Відбір
+ui.tactics,Tactics,Тактика
+ui.team,Team,Команда
+ui.textScale,Text size,Розмір тексту
+ui.through,Through ball,Пас на хід
+ui.tokens,Cosmetic tokens,Косметичні жетони
+ui.train,Set training focus,Обрати тренування
+ui.training,Training & staff,Тренування й персонал
+ui.trainingHelp,Training progresses on football dates. Opening this screen never grants development.,Тренування йдуть за ігровим календарем. Відкриття екрана не дає розвитку.
+ui.transfer,Transfer,Трансфер
+ui.transferCost,Total signing cost,Повна вартість угоди
+ui.trophies,Trophies,Трофеї
+ui.tutorialDone,Ready for your first match. You can replay this tutorial from Help.,Ти готовий до першого матчу. Навчання можна повторити в розділі «Допомога».
+ui.tutorialMove,Move your player with the movement controls.,Перемісти гравця за допомогою керування рухом.
+ui.tutorialPass,Pass the ball to a teammate.,Віддай пас партнерові.
+ui.tutorialShoot,Aim and shoot at the goal.,Прицілься й пробий по воротах.
+ui.tutorialSkip,Skip tutorial,Пропустити навчання
+ui.tutorialStart,Start tutorial,Пройти навчання
+ui.unavailable,Unavailable,Недоступно
+ui.unknown,Unknown,Невідомо
+ui.upgrade,Upgrade,Поліпшити
+ui.upkeep,Weekly upkeep grows with staff and facilities.,Тижневе утримання зростає з рівнем персоналу та інфраструктури.
+ui.view,View,Відкрити
+ui.wage,Wage,Зарплата
+ui.wages,Wages,Зарплати
+ui.windowClosed,Transfer window closed,Трансферне вікно закрито
+ui.wins,Wins,Перемоги
+ui.youth,Youth development,Розвиток молоді

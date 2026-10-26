@@ -1,0 +1,2072 @@
+<?xml version='1.0' encoding='utf-8'?>
+<roblox version="4">
+  <External>null</External>
+  <External>nil</External>
+  <Item class="Workspace" referent="RBX1">
+    <Properties>
+      <string name="Name">Workspace</string>
+      <Ref name="CurrentCamera">RBX2</Ref>
+    </Properties>
+    <Item class="Camera" referent="RBX2">
+      <Properties>
+        <string name="Name">Camera</string>
+        <CoordinateFrame name="CFrame">
+          <X>0</X>
+          <Y>110</Y>
+          <Z>120</Z>
+          <R00>1</R00>
+          <R01>0</R01>
+          <R02>0</R02>
+          <R10>0</R10>
+          <R11>0.73715</R11>
+          <R12>0.67572</R12>
+          <R20>0</R20>
+          <R21>-0.67572</R21>
+          <R22>0.73715</R22>
+        </CoordinateFrame>
+        <float name="FieldOfView">70</float>
+      </Properties>
+    </Item>
+    <Item class="Folder" referent="RBX3">
+      <Properties>
+        <string name="Name">TouchlinePreview</string>
+      </Properties>
+      <Item class="Part" referent="RBX4">
+        <Properties>
+          <string name="Name">Pitch</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>150</X>
+            <Y>1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>-1</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.11372549019607843</R>
+            <G>0.4117647058823529</G>
+            <B>0.2549019607843137</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX5">
+        <Properties>
+          <string name="Name">Grass stripe</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>15</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>-67.5</X>
+            <Y>-0.44</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.12941176470588237</R>
+            <G>0.4588235294117647</G>
+            <B>0.2823529411764706</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX6">
+        <Properties>
+          <string name="Name">Grass stripe</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>15</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>-52.5</X>
+            <Y>-0.44</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.10980392156862745</R>
+            <G>0.41568627450980394</G>
+            <B>0.2549019607843137</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX7">
+        <Properties>
+          <string name="Name">Grass stripe</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>15</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>-37.5</X>
+            <Y>-0.44</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.12941176470588237</R>
+            <G>0.4588235294117647</G>
+            <B>0.2823529411764706</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX8">
+        <Properties>
+          <string name="Name">Grass stripe</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>15</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>-22.5</X>
+            <Y>-0.44</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.10980392156862745</R>
+            <G>0.41568627450980394</G>
+            <B>0.2549019607843137</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX9">
+        <Properties>
+          <string name="Name">Grass stripe</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>15</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>-7.5</X>
+            <Y>-0.44</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.12941176470588237</R>
+            <G>0.4588235294117647</G>
+            <B>0.2823529411764706</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX10">
+        <Properties>
+          <string name="Name">Grass stripe</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>15</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>7.5</X>
+            <Y>-0.44</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.10980392156862745</R>
+            <G>0.41568627450980394</G>
+            <B>0.2549019607843137</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX11">
+        <Properties>
+          <string name="Name">Grass stripe</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>15</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>22.5</X>
+            <Y>-0.44</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.12941176470588237</R>
+            <G>0.4588235294117647</G>
+            <B>0.2823529411764706</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX12">
+        <Properties>
+          <string name="Name">Grass stripe</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>15</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>37.5</X>
+            <Y>-0.44</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.10980392156862745</R>
+            <G>0.41568627450980394</G>
+            <B>0.2549019607843137</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX13">
+        <Properties>
+          <string name="Name">Grass stripe</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>15</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>52.5</X>
+            <Y>-0.44</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.12941176470588237</R>
+            <G>0.4588235294117647</G>
+            <B>0.2823529411764706</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX14">
+        <Properties>
+          <string name="Name">Grass stripe</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>15</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>67.5</X>
+            <Y>-0.44</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.10980392156862745</R>
+            <G>0.41568627450980394</G>
+            <B>0.2549019607843137</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX15">
+        <Properties>
+          <string name="Name">Touchline</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>150</X>
+            <Y>0.1</Y>
+            <Z>0.35</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>-0.3</Y>
+            <Z>-48</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.9019607843137255</R>
+            <G>0.9411764705882353</G>
+            <B>0.9019607843137255</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX16">
+        <Properties>
+          <string name="Name">Touchline</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>150</X>
+            <Y>0.1</Y>
+            <Z>0.35</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>-0.3</Y>
+            <Z>48</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.9019607843137255</R>
+            <G>0.9411764705882353</G>
+            <B>0.9019607843137255</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX17">
+        <Properties>
+          <string name="Name">Line</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>0.35</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>-75</X>
+            <Y>-0.3</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.9019607843137255</R>
+            <G>0.9411764705882353</G>
+            <B>0.9019607843137255</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX18">
+        <Properties>
+          <string name="Name">Line</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>0.35</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>-0.3</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.9019607843137255</R>
+            <G>0.9411764705882353</G>
+            <B>0.9019607843137255</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX19">
+        <Properties>
+          <string name="Name">Line</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>0.35</X>
+            <Y>0.1</Y>
+            <Z>96</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>75</X>
+            <Y>-0.3</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.9019607843137255</R>
+            <G>0.9411764705882353</G>
+            <B>0.9019607843137255</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX20">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>2</Y>
+            <Z>-59</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.10980392156862745</R>
+            <G>0.1450980392156863</G>
+            <B>0.2</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX21">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>4</Y>
+            <Z>-64</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.12156862745098039</R>
+            <G>0.1568627450980392</G>
+            <B>0.21176470588235294</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX22">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>6</Y>
+            <Z>-69</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.13333333333333333</R>
+            <G>0.16862745098039217</G>
+            <B>0.2235294117647059</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX23">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>8</Y>
+            <Z>-74</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.1450980392156863</R>
+            <G>0.1803921568627451</G>
+            <B>0.23529411764705882</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX24">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>10</Y>
+            <Z>-79</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.1568627450980392</R>
+            <G>0.19215686274509805</G>
+            <B>0.24705882352941178</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX25">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>12</Y>
+            <Z>-84</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.16862745098039217</R>
+            <G>0.20392156862745098</G>
+            <B>0.25882352941176473</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX26">
+        <Properties>
+          <string name="Name">Post</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>0.6</X>
+            <Y>9</Y>
+            <Z>0.6</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>-76</X>
+            <Y>4</Y>
+            <Z>-14</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>1.0</R>
+            <G>1.0</G>
+            <B>1.0</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX27">
+        <Properties>
+          <string name="Name">Post</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>0.6</X>
+            <Y>9</Y>
+            <Z>0.6</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>-76</X>
+            <Y>4</Y>
+            <Z>14</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>1.0</R>
+            <G>1.0</G>
+            <B>1.0</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX28">
+        <Properties>
+          <string name="Name">Crossbar</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>0.6</X>
+            <Y>0.6</Y>
+            <Z>28</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>-76</X>
+            <Y>8.5</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>1.0</R>
+            <G>1.0</G>
+            <B>1.0</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX29">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>2</Y>
+            <Z>59</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.10980392156862745</R>
+            <G>0.1450980392156863</G>
+            <B>0.2</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX30">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>4</Y>
+            <Z>64</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.12156862745098039</R>
+            <G>0.1568627450980392</G>
+            <B>0.21176470588235294</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX31">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>6</Y>
+            <Z>69</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.13333333333333333</R>
+            <G>0.16862745098039217</G>
+            <B>0.2235294117647059</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX32">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>8</Y>
+            <Z>74</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.1450980392156863</R>
+            <G>0.1803921568627451</G>
+            <B>0.23529411764705882</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX33">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>10</Y>
+            <Z>79</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.1568627450980392</R>
+            <G>0.19215686274509805</G>
+            <B>0.24705882352941178</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX34">
+        <Properties>
+          <string name="Name">Stand</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>180</X>
+            <Y>2</Y>
+            <Z>5</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>0</X>
+            <Y>12</Y>
+            <Z>84</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>0.16862745098039217</R>
+            <G>0.20392156862745098</G>
+            <B>0.25882352941176473</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX35">
+        <Properties>
+          <string name="Name">Post</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>0.6</X>
+            <Y>9</Y>
+            <Z>0.6</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>76</X>
+            <Y>4</Y>
+            <Z>-14</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>1.0</R>
+            <G>1.0</G>
+            <B>1.0</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX36">
+        <Properties>
+          <string name="Name">Post</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>0.6</X>
+            <Y>9</Y>
+            <Z>0.6</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>76</X>
+            <Y>4</Y>
+            <Z>14</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>1.0</R>
+            <G>1.0</G>
+            <B>1.0</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+      <Item class="Part" referent="RBX37">
+        <Properties>
+          <string name="Name">Crossbar</string>
+          <bool name="Anchored">true</bool>
+          <Vector3 name="size">
+            <X>0.6</X>
+            <Y>0.6</Y>
+            <Z>28</Z>
+          </Vector3>
+          <CoordinateFrame name="CFrame">
+            <X>76</X>
+            <Y>8.5</Y>
+            <Z>0</Z>
+            <R00>1</R00>
+            <R01>0</R01>
+            <R02>0</R02>
+            <R10>0</R10>
+            <R11>1</R11>
+            <R12>0</R12>
+            <R20>0</R20>
+            <R21>0</R21>
+            <R22>1</R22>
+          </CoordinateFrame>
+          <Color3 name="Color">
+            <R>1.0</R>
+            <G>1.0</G>
+            <B>1.0</B>
+          </Color3>
+          <token name="TopSurface">0</token>
+          <token name="BottomSurface">0</token>
+        </Properties>
+      </Item>
+    </Item>
+  </Item>
+  <Item class="Lighting" referent="RBX38">
+    <Properties>
+      <string name="Name">Lighting</string>
+      <float name="ClockTime">16</float>
+    </Properties>
+  </Item>
+  <Item class="ReplicatedStorage" referent="RBX39">
+    <Properties>
+      <string name="Name">ReplicatedStorage</string>
+    </Properties>
+  </Item>
+  <Item class="StarterGui" referent="RBX40">
+    <Properties>
+      <string name="Name">StarterGui</string>
+    </Properties>
+  </Item>
+  <Item class="SoundService" referent="RBX41">
+    <Properties>
+      <string name="Name">SoundService</string>
+    </Properties>
+  </Item>
+  <Item class="ServerScriptService" referent="RBX42">
+    <Properties>
+      <string name="Name">ServerScriptService</string>
+    </Properties>
+    <Item class="Folder" referent="RBX43">
+      <Properties>
+        <string name="Name">TouchlineServer</string>
+      </Properties>
+      <Item class="ModuleScript" referent="RBX44">
+        <Properties>
+          <string name="Name">Career</string>
+          <ProtectedString name="Source">-- Pure Lua domain model. No client-provided money, scores or ratings are accepted.
+local C = {}
+C.VERSION = 1
+C.formations = {'4-3-3','4-4-2','3-5-2'}
+C.names = {'Тернополь Атлетик','Днепровские Волки','Полесье Юнайтед','Карпатские Соколы','Одесский Маяк','Киев Аврора','Подолье Сити','Сумские Лисы','Львов Роверс','Днепр Искра','Буковина Стар','Черкассы ФК','Волынь Юнайтед','Ужгород Виста','Ровно Вектор','Хмельницкий Альянс','Лондон Норт','Мадрид Сол','Милан Стелла','Париж Люмьер','Берлин Юнион','Лиссабон Мар','Амстердам Оранж','Прага Корона'}
+local first = {'Макс','Артём','Данило','Алекс','Лука','Нико','Марк','Илья','Том','Лев','Эрик','Оскар','Роман','Тео','Матео','Ян'}
+local last = {'Коваленко','Мороз','Шевчук','Силва','Мартин','Новак','Коста','Бондарь','Рейес','Мюллер','Бруно','Кларк','Соколов','Росс','Вега','Волков'}
+function C.copy(x)
+ if type(x) ~= 'table' then return x end
+ local y = {}; for k,v in pairs(x) do y[k] = C.copy(v) end; return y
+end
+function C.rng(seed)
+ local state = math.max(1, math.floor(seed or 1) % 2147483647)
+ return function(a,b)
+  state = (state * 48271) % 2147483647
+  local n = state / 2147483647
+  if a then return math.floor(a+n*(b-a+1)) end
+  return n
+ end
+end
+function C.value(p) return math.floor((p.rating-25)^2 * 110 * (p.age &lt; 23 and 1.4 or (p.age &gt; 30 and .65 or 1))) end
+function C.player(rng, id, rating, pos)
+ local p = {id=id,name=first[rng(1,#first)]..' '..last[rng(1,#last)],age=rng(17,31),rating=rating,pos=pos,fitness=100,xp=0,goals=0,assists=0}
+ p.potential=math.min(94, rating+rng(3,18)); return p
+end
+function C.roles(formation)
+ local roles={'GK'}; local counts=formation=='4-4-2' and {4,4,2} or formation=='3-5-2' and {3,5,2} or {4,3,3}
+ for g,n in ipairs(counts) do for _=1,n do roles[#roles+1]=({'DEF','MID','FWD'})[g] end end
+ return roles
+end
+function C.schedule()
+ local ring={1,2,3,4,5,6,7,8}; local rounds={}
+ for r=1,7 do
+  local games={}; for i=1,4 do
+   local a,b=ring[i],ring[9-i]; if r%2==0 then a,b=b,a end
+   games[#games+1]={a,b}
+  end
+  rounds[r]=games; table.insert(ring,2,table.remove(ring))
+ end
+ for r=1,7 do rounds[r+7]={}; for _,g in ipairs(rounds[r]) do table.insert(rounds[r+7],{g[2],g[1]}) end end
+ return rounds
+end
+function C.buildLeague(p)
+ p.league={}; local base=43+(4-p.division)*10
+ for i=1,8 do
+  local name=C.names[(3-p.division)*8+i]
+  if i==1 then name=p.club elseif name==p.club then name='Восток Атлетик' end
+  p.league[i]={name=name,rating=base+((i*7+p.season*3)%13),pts=0,gf=0,ga=0,w=0,d=0,l=0,played=0}
+ end
+ p.round=1; p.cupStage=1; p.cupAlive=true; p.cupDone=false; p.schedule=C.schedule()
+end
+function C.market(p)
+ local rng=C.rng(p.seed+p.season*7919+p.round*113+p.marketVersion*13)
+ p.market={}; local base=48+(3-p.division)*10
+ for i=1,18 do
+  local pos=({'GK','DEF','MID','FWD'})[(i-1)%4+1]
+  local q=C.player(rng,'m'..p.season..'_'..p.round..'_'..p.marketVersion..'_'..i,rng(base-6,base+17),pos)
+  q.price=C.value(q); q.free=(i==18); if q.free then q.price=math.floor(q.price*.18) end
+  table.insert(p.market,q)
+ end
+end
+function C.new(seed)
+ local p={version=C.VERSION,seed=seed,club='Тернополь Атлетик',season=1,division=3,cash=650000,reputation=0,formation='4-3-3',mentality='balanced',roster={},lineup={},upgrades={training=1,academy=1,stadium=1},history={},trophies=0,wins=0,marketVersion=1,lastResult='',tutorial=true,academyYear=0}
+ local rng=C.rng(seed); local roles=C.roles(p.formation)
+ for i=1,18 do
+  local q=C.player(rng,'p'..i,rng(48,62),roles[i] or ({'GK','DEF','MID','FWD'})[(i-12)%4+1])
+  table.insert(p.roster,q); if i&lt;=11 then p.lineup[i]=q.id end
+ end
+ C.buildLeague(p); C.market(p); return p
+end
+function C.find(p,id) for i,q in ipairs(p.roster) do if q.id==id then return q,i end end end
+function C.strength(p)
+ local sum=0; local roles=C.roles(p.formation)
+ for i,id in ipairs(p.lineup) do
+  local q=C.find(p,id)
+  if q then sum=sum+q.rating*(.7+.3*q.fitness/100)*(q.pos==roles[i] and 1 or .84) end
+ end
+ return sum/11
+end
+function C.sorted(p)
+ local t=C.copy(p.league)
+ table.sort(t,function(a,b) if a.pts~=b.pts then return a.pts&gt;b.pts elseif a.gf-a.ga~=b.gf-b.ga then return a.gf-a.ga&gt;b.gf-b.ga elseif a.gf~=b.gf then return a.gf&gt;b.gf else return a.name&lt;b.name end end)
+ return t
+end
+function C.next(p,kind)
+ if kind=='cup' then
+  if not p.cupAlive or p.cupDone then return nil,'Кубок уже завершён' end
+  return {name=({'Львов Роверс','Киев Аврора','Мадрид Сол'})[p.cupStage],rating=49+(3-p.division)*8+p.cupStage*5,home=true,kind='cup'}
+ end
+ if p.round&gt;14 then return nil,'Сезон завершён — начни следующий' end
+ for _,g in ipairs(p.schedule[p.round]) do
+  if g[1]==1 or g[2]==1 then local i=g[1]==1 and g[2] or g[1]; return {name=p.league[i].name,rating=p.league[i].rating,index=i,home=g[1]==1,kind='league'} end
+ end
+end
+function C.poisson(rng,lambda)
+ local k,p=0,1; local lim=math.exp(-lambda)
+ repeat k=k+1; p=p*rng() until p&lt;=lim or k&gt;10
+ return k-1
+end
+function C.sim(rng,a,b)
+ return C.poisson(rng,math.max(.2,1.35+(a-b)*.045)),C.poisson(rng,math.max(.2,1.15+(b-a)*.045))
+end
+local function record(a,b,x,y)
+ a.played=a.played+1; b.played=b.played+1; a.gf=a.gf+x; a.ga=a.ga+y; b.gf=b.gf+y; b.ga=b.ga+x
+ if x&gt;y then a.pts=a.pts+3; a.w=a.w+1; b.l=b.l+1 elseif x&lt;y then b.pts=b.pts+3; b.w=b.w+1; a.l=a.l+1 else a.pts=a.pts+1; b.pts=b.pts+1; a.d=a.d+1; b.d=b.d+1 end
+end
+function C.finish(p,op,x,y,scorers,assists,penWin)
+ local rng=C.rng(p.seed+p.season*10000+p.round*37+p.cupStage*41)
+ local won=x&gt;y or (x==y and penWin==true)
+ local income=25000+p.upgrades.stadium*8000+(won and 20000 or x==y and 8000 or 0)
+ p.cash=p.cash+income; if won then p.wins=p.wins+1; p.reputation=p.reputation+2 end
+ p.lastResult=p.club..' '..x..' : '..y..' '..op.name..(x==y and op.kind=='cup' and (won and ' • победа по пенальти' or ' • поражение по пенальти') or '')
+ for _,q in ipairs(p.roster) do
+  local active=false; for _,id in ipairs(p.lineup) do if id==q.id then active=true end end
+  q.fitness=math.max(0,math.min(100,q.fitness+(active and -rng(3,8) or 14)))
+  if active then
+   q.xp=q.xp+12+p.upgrades.training*4
+   if q.xp&gt;=100 and q.rating&lt;q.potential then q.rating=q.rating+1; q.xp=q.xp-100 end
+  end
+  q.goals=q.goals+((scorers or {})[q.id] or 0); q.assists=q.assists+((assists or {})[q.id] or 0)
+ end
+ if op.kind=='cup' then
+  if won and p.cupStage==3 then p.trophies=p.trophies+1; p.cash=p.cash+250000; p.cupDone=true; p.reputation=p.reputation+15
+  elseif won then p.cupStage=p.cupStage+1 else p.cupAlive=false end
+ else
+  for _,g in ipairs(p.schedule[p.round]) do
+   local a,b=g[1],g[2]; local gx,gy
+   if a==1 then gx,gy=x,y elseif b==1 then gx,gy=y,x else gx,gy=C.sim(rng,p.league[a].rating,p.league[b].rating) end
+   record(p.league[a],p.league[b],gx,gy)
+  end
+  p.round=p.round+1; C.market(p)
+ end
+ p.history[#p.history+1]=p.lastResult; if #p.history&gt;40 then table.remove(p.history,1) end
+ return income
+end
+function C.action(p,action,arg)
+ arg=arg or {}; local id=arg.id
+ if action=='buy' then
+  if #p.roster&gt;=25 then return false,'В составе максимум 25 игроков' end
+  for i,q in ipairs(p.market) do if q.id==id then
+   if p.cash&lt;q.price then return false,'Не хватает бюджета' end
+   p.cash=p.cash-q.price; local bought=C.copy(q); bought.price=nil; bought.free=nil; table.insert(p.roster,bought); table.remove(p.market,i); return true,'Игрок подписан'
+  end end
+  return false,'Игрок уже недоступен'
+ elseif action=='sell' then
+  local q,i=C.find(p,id); if not q then return false,'Игрок не найден' end
+  for _,v in ipairs(p.lineup) do if v==id then return false,'Сначала переведи игрока в запас' end end
+  if #p.roster&lt;=11 then return false,'Нужны минимум 11 игроков' end
+  p.cash=p.cash+math.floor(C.value(q)*.75); table.remove(p.roster,i); return true,'Игрок продан'
+ elseif action=='swap' then
+  local q=C.find(p,id); local slot=tonumber(arg.slot)
+  if not q or not slot or slot%1~=0 or slot&lt;1 or slot&gt;11 then return false,'Выбери позицию и футболиста' end
+  local old=p.lineup[slot]; for i,v in ipairs(p.lineup) do if v==id then p.lineup[i]=old; break end end
+  p.lineup[slot]=id; return true,'Состав обновлён'
+ elseif action=='formation' then
+  for _,f in ipairs(C.formations) do if f==arg.value then p.formation=f; return true,'Схема изменена' end end
+ elseif action=='mentality' then
+  if arg.value=='attack' or arg.value=='balanced' or arg.value=='defend' then p.mentality=arg.value; return true,'Тактика изменена' end
+ elseif action=='upgrade' then
+  local key=arg.key; local n=p.upgrades[key]
+  if not n or n&gt;=10 then return false,'Максимальный уровень' end
+  local price=n*n*80000; if p.cash&lt;price then return false,'Нужно '..price end
+  p.cash=p.cash-price; p.upgrades[key]=n+1; return true,'Инфраструктура улучшена'
+ elseif action=='rest' then
+  if p.cash&lt;30000 then return false,'Нужно 30 000' end
+  p.cash=p.cash-30000; for _,q in ipairs(p.roster) do q.fitness=math.min(100,q.fitness+25) end; return true,'Команда восстановилась'
+ elseif action=='academy' then
+  if p.academyYear==p.season then return false,'Набор уже проведён в этом сезоне' end
+  if #p.roster&gt;=25 then return false,'Освободи место в составе' end
+  if p.cash&lt;40000 then return false,'Нужно 40 000' end
+  p.cash=p.cash-40000; p.academyYear=p.season
+  local rng=C.rng(p.seed+p.season*919); local q=C.player(rng,'y'..p.season,43+p.upgrades.academy*3+rng(0,7),({'GK','DEF','MID','FWD'})[rng(1,4)])
+  q.age=16; q.potential=math.min(98,q.rating+rng(15,25)); table.insert(p.roster,q); return true,'Выпускник: '..q.name
+ elseif action=='season' then
+  if p.round&lt;=14 then return false,'Сначала закончи 14 туров лиги' end
+  if p.cupAlive and not p.cupDone then return false,'Сначала закончи кубок' end
+  local place=8; for i,t in ipairs(C.sorted(p)) do if t.name==p.club then place=i end end
+  local reward=(9-place)*45000; p.cash=p.cash+reward
+  if place==1 then p.trophies=p.trophies+1; p.reputation=p.reputation+20 end
+  if place&lt;=2 then p.division=math.max(1,p.division-1) elseif place&gt;=7 then p.division=math.min(3,p.division+1) end
+  p.season=p.season+1
+  local rng=C.rng(p.seed+p.season)
+  for i,q in ipairs(p.roster) do
+   q.age=q.age+1; q.fitness=100; q.goals=0; q.assists=0
+   if q.age&gt;31 then q.rating=math.max(35,q.rating-2) end
+   if q.age&gt;=36 then
+    local fresh=C.player(rng,'r'..p.season..'_'..i,46+p.upgrades.academy*2,q.pos); fresh.age=17
+    for j,v in ipairs(p.lineup) do if v==q.id then p.lineup[j]=fresh.id end end
+    p.roster[i]=fresh
+   end
+  end
+  C.buildLeague(p); C.market(p); return true,'Новый сезон! Призовые: '..reward
+ elseif action=='job' then
+  if p.round~=1 or p.season&lt;2 then return false,'Смена клуба — в начале нового сезона' end
+  if p.reputation&lt;30 then return false,'Нужно 30 репутации' end
+  local idx=tonumber(arg.index); if not idx or idx%1~=0 or idx&lt;1 or idx&gt;3 then return false,'Нет такого предложения' end
+  p.club=({'Одесский Маяк','Киев Аврора','Львов Роверс'})[idx]; p.reputation=p.reputation-30
+  -- A new club is a genuinely new squad/facilities, while manager honours survive.
+  local fresh=C.new(p.seed+p.season*101+idx); p.roster=fresh.roster; p.lineup=fresh.lineup; p.cash=800000; p.upgrades=fresh.upgrades; p.formation=fresh.formation
+  C.buildLeague(p); C.market(p); return true,'Ты возглавил '..p.club
+ end
+ return false,'Действие недоступно'
+end
+return C
+</ProtectedString>
+        </Properties>
+      </Item>
+      <Item class="ModuleScript" referent="RBX45">
+        <Properties>
+          <string name="Name">Match</string>
+          <ProtectedString name="Source">-- Deterministic 11v11 ground-ball simulation; authoritative on the server.
+local M={}
+local function clamp(v,a,b) return math.max(a,math.min(b,v)) end
+local function distance(a,b) local x,y=a.x-b.x,a.y-b.y; return math.sqrt(x*x+y*y) end
+local function norm(x,y) local d=math.sqrt(x*x+y*y); if d&lt;.001 then return 0,0 end; return x/d,y/d end
+local function move(p,x,y,s,dt)
+ local dx,dy=x-p.x,y-p.y; local d=math.sqrt(dx*dx+dy*dy)
+ if d&gt;.05 then local step=math.min(d,s*dt); p.x=clamp(p.x+dx/d*step,1,99); p.y=clamp(p.y+dy/d*step,1,63) end
+end
+local function coords(formation)
+ local out={{x=5,y=32}}; local groups=formation=='4-4-2' and {4,4,2} or formation=='3-5-2' and {3,5,2} or {4,3,3}
+ for g,n in ipairs(groups) do for i=1,n do out[#out+1]={x=({24,43,62})[g],y=64*i/(n+1)} end end
+ return out
+end
+function M.new(profile,op,C,seed)
+ local m={t=0,duration=120,home=0,away=0,players={},ball={x=50,y=32,vx=0,vy=0},owner=10,controlled=10,cooldown=1,pause=1.2,phase='kickoff',ended=false,op=op,scorers={},assists={},input={x=0,y=0},rng=C.rng(seed),formation=profile.formation,mentality=profile.mentality,notice='НАЧАЛО МАТЧА',lastPass=nil}
+ local a,b=coords(profile.formation),coords('4-3-3')
+ for i=1,22 do
+  local home=i&lt;=11; local n=home and i or i-11; local pos=(home and a or b)[n]
+  local q=home and C.find(profile,profile.lineup[n]) or nil
+  m.players[i]={x=home and pos.x or 100-pos.x,y=pos.y,bx=home and pos.x or 100-pos.x,by=pos.y,team=home and 1 or 2,number=n,rating=q and q.rating or op.rating,fitness=q and q.fitness or 100,id=q and q.id or ('cpu'..n),name=q and q.name or 'Соперник',gk=n==1}
+ end
+ m.players[10].x=50; m.players[10].y=32
+ return m
+end
+function M.kickoff(m,team)
+ for _,p in ipairs(m.players) do p.x=p.bx; p.y=p.by end
+ m.owner=team==1 and 10 or 21; local p=m.players[m.owner]; p.x=50; p.y=32
+ m.ball={x=50,y=32,vx=0,vy=0}; m.cooldown=1; m.lastPass=nil; m.shot=false
+ if team==1 then m.controlled=m.owner end
+end
+function M.switch(m)
+ if m.owner and m.players[m.owner].team==1 then m.controlled=m.owner; return end
+ local target=m.owner and m.players[m.owner] or m.ball; local best,d=2,1e9
+ for i=2,11 do local v=distance(m.players[i],target); if v&lt;d then d=v; best=i end end
+ m.controlled=best
+end
+function M.kick(m,idx,tx,ty,shot)
+ if m.owner~=idx or m.pause&gt;0 then return end
+ local p=m.players[idx]; local dx,dy=norm(tx-p.x,ty-p.y)
+ if dx==0 and dy==0 then return end
+ local spread=(100-p.rating)*.0016
+ if shot then dy=dy+(m.rng()-.5)*spread; dx,dy=norm(dx,dy) end
+ m.ball.x=p.x+dx*1.3; m.ball.y=p.y+dy*1.3
+ m.ball.vx=dx*(shot and 49 or 36); m.ball.vy=dy*(shot and 49 or 36)
+ m.owner=nil; m.lastTouch=idx; m.shot=shot; m.flight=0; m.cooldown=.18
+ if not shot then m.lastPass=idx end
+end
+function M.pass(m,idx)
+ local p=m.players[idx]; local dir=p.team==1 and 1 or -1; local best,score=nil,-1e9
+ for i,q in ipairs(m.players) do if q.team==p.team and i~=idx and not q.gk then
+  local d=distance(p,q); local nearest=20
+  for _,enemy in ipairs(m.players) do if enemy.team~=p.team then nearest=math.min(nearest,distance(q,enemy)) end end
+  local s=(q.x-p.x)*dir*.5+nearest*1.3-math.abs(d-17)*.55
+  if s&gt;score then score=s; best=i end
+ end end
+ if best then local q=m.players[best]; M.kick(m,idx,q.x+dir*1.5,q.y,false) end
+end
+function M.command(m,action,arg)
+ if m.ended or m.pause&gt;0 then return end
+ local idx=m.controlled; local p=m.players[idx]
+ if action=='switch' then M.switch(m)
+ elseif action=='pass' and m.owner==idx then M.pass(m,idx)
+ elseif action=='shoot' and m.owner==idx then
+  local y=arg and tonumber(arg.y); if not y or y~=y then y=32 end
+  M.kick(m,idx,103,clamp(y,24,40),true)
+ elseif action=='tackle' and m.owner and m.players[m.owner].team==2 and m.cooldown&lt;=0 then
+  if distance(p,m.players[m.owner])&lt;4.8 and m.rng()&lt;.64 then m.owner=idx; m.lastPass=nil; m.cooldown=.65 end
+ elseif action=='target' and arg then
+  local x,y=tonumber(arg.x),tonumber(arg.y)
+  if x and y and x==x and y==y then m.target={x=clamp(x,1,99),y=clamp(y,1,63)} end
+ end
+end
+local function goal(m,team)
+ if team==1 then
+  m.home=m.home+1
+  local q=m.lastTouch and m.players[m.lastTouch]
+  if q and q.team==1 then m.scorers[q.id]=(m.scorers[q.id] or 0)+1 end
+  local assist=m.lastPass and m.players[m.lastPass]
+  if assist and q and assist.team==1 and assist.id~=q.id then m.assists[assist.id]=(m.assists[assist.id] or 0)+1 end
+ else m.away=m.away+1 end
+ m.pause=2; m.notice=team==1 and 'ГОООЛ! ТВОЯ КОМАНДА ЗАБИВАЕТ' or 'ГОЛ СОПЕРНИКА'; m.phase='goal'
+ M.kickoff(m,team==1 and 2 or 1)
+end
+function M.step(m,dt)
+ if m.ended then return end
+ if m.pause&gt;0 then m.pause=math.max(0,m.pause-dt); return end
+ m.phase='play'; m.t=m.t+dt; m.cooldown=math.max(0,m.cooldown-dt)
+ if m.t&gt;=m.duration then m.ended=true; m.phase='ended'; m.notice='ФИНАЛЬНЫЙ СВИСТОК'; return end
+ local owner=m.owner and m.players[m.owner]
+ if owner and owner.team==1 then m.controlled=m.owner end
+ local ball=owner or m.ball
+ local nearest={nil,nil}; local nd={1e9,1e9}
+ for i,p in ipairs(m.players) do if not p.gk and i~=m.owner then local d=distance(p,ball); if d&lt;nd[p.team] then nearest[p.team]=i; nd[p.team]=d end end end
+ for i,p in ipairs(m.players) do
+  local speed=(8+p.rating*.055)*(.7+.3*p.fitness/100)
+  local dir=p.team==1 and 1 or -1
+  if i==m.controlled then
+   if math.abs(m.input.x)+math.abs(m.input.y)&gt;.05 then
+    m.target=nil; local dx,dy=norm(m.input.x,m.input.y); move(p,p.x+dx*10,p.y+dy*10,speed,dt)
+   elseif m.target then move(p,m.target.x,m.target.y,speed,dt) end
+  elseif i==m.owner then
+   if p.gk then M.pass(m,i)
+   else
+    move(p,p.team==1 and 94 or 6,32+(p.by-32)*.35,speed*.87,dt)
+    local goalDist=p.team==1 and 100-p.x or p.x
+    if m.cooldown&lt;=0 then
+     if goalDist&lt;29 and m.rng()&lt;dt*2 then M.kick(m,i,p.team==1 and 103 or -3,25+m.rng()*14,true)
+     elseif nd[3-p.team]&lt;4 and m.rng()&lt;dt*2 then M.pass(m,i) end
+    end
+   end
+  elseif p.gk then
+   move(p,p.team==1 and 4 or 96,clamp(ball.y,24,40),speed*.8,dt)
+  elseif nearest[p.team]==i and (not owner or owner.team~=p.team) then
+   move(p,ball.x,ball.y,speed*.97,dt)
+  else
+   local attacking=owner and owner.team==p.team
+   local shift=attacking and 12 or -7
+   if p.team==1 then shift=shift+(m.mentality=='attack' and 7 or m.mentality=='defend' and -7 or 0) end
+   move(p,clamp(p.bx+dir*shift+(ball.x-50)*.22,8,92),clamp(p.by+(ball.y-32)*.2,4,60),speed*.72,dt)
+  end
+ end
+ owner=m.owner and m.players[m.owner]
+ if owner then
+  m.ball.x=owner.x+(owner.team==1 and .9 or -.9); m.ball.y=owner.y; m.ball.vx=0; m.ball.vy=0
+  if m.cooldown&lt;=0 then
+   local challenger=nearest[3-owner.team]
+   if challenger and distance(m.players[challenger],owner)&lt;2.1 and m.rng()&lt;dt*1.9 then
+    m.owner=challenger; m.cooldown=.7; m.lastPass=nil; m.notice='ПЕРЕХВАТ'
+   end
+  end
+ else
+  m.flight=(m.flight or 0)+dt
+  m.ball.x=m.ball.x+m.ball.vx*dt; m.ball.y=m.ball.y+m.ball.vy*dt
+  local drag=math.max(0,1-dt*.34); m.ball.vx=m.ball.vx*drag; m.ball.vy=m.ball.vy*drag
+  if m.ball.x&gt;100 or m.ball.x&lt;0 then
+   if m.ball.y&gt;23 and m.ball.y&lt;41 then goal(m,m.ball.x&gt;100 and 1 or 2); return end
+   m.pause=.75; m.notice='УДАР ОТ ВОРОТ'; m.owner=m.ball.x&gt;100 and 12 or 1; m.cooldown=.7; m.lastPass=nil
+  elseif m.ball.y&lt;0 or m.ball.y&gt;64 then
+   local team=m.lastTouch and 3-m.players[m.lastTouch].team or 1
+   local idx=nearest[team] or (team==1 and 5 or 16)
+   m.owner=idx; m.players[idx].x=clamp(m.ball.x,3,97); m.players[idx].y=clamp(m.ball.y,2,62)
+   m.pause=.5; m.cooldown=.7; m.notice='ВВОД МЯЧА'; m.lastPass=nil
+  elseif m.cooldown&lt;=0 then
+   for i,p in ipairs(m.players) do
+    if not (i==m.lastTouch and m.flight&lt;.45) then
+     local reach=p.gk and 2.5+p.rating*.008 or 1.55
+     if distance(p,m.ball)&lt;reach then
+      if p.gk and m.shot and m.rng()&gt;.78 then
+       -- A fast shot may beat the keeper; one roll per passage.
+       m.cooldown=.12
+      else
+       m.owner=i; m.cooldown=.45; if m.lastTouch and m.players[m.lastTouch].team~=p.team then m.lastPass=nil end
+       m.shot=false; break
+      end
+     end
+    end
+   end
+  end
+ end
+end
+function M.snapshot(m)
+ local players={}; for i,p in ipairs(m.players) do players[i]={x=p.x,y=p.y,team=p.team,number=p.number,gk=p.gk} end
+ return {players=players,ball={x=m.ball.x,y=m.ball.y},home=m.home,away=m.away,minute=math.min(90,math.floor(m.t/m.duration*90)),controlled=m.controlled,owner=m.owner,notice=m.pause&gt;0 and m.notice or '',ended=m.ended,op=m.op.name}
+end
+return M
+</ProtectedString>
+        </Properties>
+      </Item>
+      <Item class="ModuleScript" referent="RBX46">
+        <Properties>
+          <string name="Name">Storage</string>
+          <ProtectedString name="Source">local DataStoreService=game:GetService('DataStoreService')
+local RunService=game:GetService('RunService')
+local HttpService=game:GetService('HttpService')
+local S={sessions={}}
+local dbOK,db=pcall(function() return DataStoreService:GetDataStore('TouchlineDynasty_v1') end)
+if not dbOK then db=nil end
+local token=game.JobId~='' and game.JobId or HttpService:GenerateGUID(false)
+local function retry(fn)
+ local ok,res
+ for i=1,3 do ok,res=pcall(fn); if ok then return true,res end; task.wait(i) end
+ return false,res
+end
+function S.load(player,make)
+ local key='u'..player.UserId
+ if not db then
+  if RunService:IsStudio() then S.sessions[player]={key=key,temporary=true,busy=false}; return make(),'ТЕСТ: опубликуй игру для сохранений' end
+  return nil,'Хранилище временно недоступно. Попробуй позже.'
+ end
+ local ok,envelope=retry(function()
+  return db:UpdateAsync(key,function(old)
+   if old and old.lock and old.lock~=token and (old.expires or 0)&gt;os.time() then return nil end
+   return {profile=old and old.profile or make(),lock=token,expires=os.time()+180}
+  end)
+ end)
+ if not ok then
+  if RunService:IsStudio() then
+   local p=make(); S.sessions[player]={key=key,temporary=true,busy=false}; return p,'ТЕСТ: сохранения недоступны'
+  end
+  return nil,'Не удалось загрузить карьеру. Зайди позже — данные не перезаписаны.'
+ end
+ if not envelope then return nil,'Карьера открыта на другом сервере. Подожди до 3 минут.' end
+ if type(envelope.profile)~='table' or envelope.profile.version~=1 then return nil,'Версия сохранения не поддерживается.' end
+ S.sessions[player]={key=key,busy=false,temporary=false}
+ return envelope.profile,'Сохранения подключены'
+end
+function S.save(player,profile,copy,release)
+ local session=S.sessions[player]; if not session then return false,'Нет сессии' end
+ if session.temporary then if release then S.sessions[player]=nil end; return true,'Тестовая сессия' end
+ local start=os.clock()
+ while session.busy and os.clock()-start&lt;15 do task.wait(.1) end
+ if session.busy then return false,'Сохранение занято' end
+ session.busy=true
+ local snapshot=copy(profile)
+ local ok,res=retry(function()
+  return db:UpdateAsync(session.key,function(old)
+   if not old or old.lock~=token then return nil end
+   return {profile=snapshot,lock=not release and token or nil,expires=not release and os.time()+180 or 0}
+  end)
+ end)
+ session.busy=false
+ if release then S.sessions[player]=nil end
+ if not ok then return false,'Сбой сохранения — повторим автоматически' end
+ if not res then return false,'LOCK_LOST' end
+ return true,'Сохранено'
+end
+return S
+</ProtectedString>
+        </Properties>
+      </Item>
+      <Item class="Script" referent="RBX47">
+        <Properties>
+          <string name="Name">Main</string>
+          <ProtectedString name="Source">local Players=game:GetService('Players')
+local ReplicatedStorage=game:GetService('ReplicatedStorage')
+local RunService=game:GetService('RunService')
+local C=require(script.Parent.Career)
+local M=require(script.Parent.Match)
+local S=require(script.Parent.Storage)
+local net=Instance.new('Folder'); net.Name='TouchlineNet'; net.Parent=ReplicatedStorage
+local event=Instance.new('RemoteEvent'); event.Name='Event'; event.Parent=net
+local command=Instance.new('RemoteEvent'); command.Name='Command'; command.Parent=net
+local profiles,matches,rates,busy,status={}, {}, {}, {}, {}
+local function emit(p,kind,data) if p.Parent==Players then event:FireClient(p,kind,data) end end
+local function update(p)
+ local profile=profiles[p]; if not profile then return end
+ local packet=C.copy(profile); packet.strength=math.floor(C.strength(profile)); packet.table=C.sorted(profile); packet.next=C.next(profile,'league'); packet.saveStatus=status[p]
+ emit(p,'profile',packet)
+ local stats=p:FindFirstChild('leaderstats')
+ if stats then stats.Trophies.Value=profile.trophies; stats.Wins.Value=profile.wins; stats.Season.Value=profile.season end
+end
+local function save(p,release)
+ if not profiles[p] then return end
+ local ok,msg=S.save(p,profiles[p],C.copy,release)
+ status[p]=msg
+ if msg=='LOCK_LOST' then p:Kick('Карьера открыта в другой сессии. Перезайди.') end
+ return ok,msg
+end
+local function finish(p,m,forfeit)
+ local profile=profiles[p]; if not profile then return end
+ local x,y=m.home,m.away
+ if forfeit then x=0; y=3 end
+ local pen=m.op.kind=='cup' and x==y and m.rng()&lt;.5
+ local income=C.finish(profile,m.op,x,y,m.scorers,m.assists,pen)
+ profile.pending=nil; matches[p]=nil
+ emit(p,'result',{home=x,away=y,op=m.op.name,income=income,penalties=m.op.kind=='cup' and x==y,penWin=pen})
+ update(p); task.spawn(function() save(p,false) end)
+end
+local function join(p)
+ local profile,msg=S.load(p,function() return C.new(math.max(1,math.abs(p.UserId)+913)) end)
+ if not profile then if p.Parent==Players then p:Kick(msg) end; return end
+ profiles[p]=profile; status[p]=msg
+ if profile.pending then C.finish(profile,profile.pending,0,3,{},{}); profile.pending=nil; profile.lastResult=profile.lastResult..' • выход из матча' end
+ if p.Parent~=Players then save(p,true); profiles[p]=nil; return end
+ local stats=Instance.new('Folder'); stats.Name='leaderstats'; stats.Parent=p
+ for _,name in ipairs({'Trophies','Wins','Season'}) do local n=Instance.new('IntValue'); n.Name=name; n.Parent=stats end
+ update(p)
+end
+Players.PlayerAdded:Connect(join)
+for _,p in ipairs(Players:GetPlayers()) do task.spawn(join,p) end
+command.OnServerEvent:Connect(function(p,action,arg)
+ if type(action)~='string' or #action&gt;24 or (arg~=nil and type(arg)~='table') then return end
+ arg=arg or {}
+ local now=os.clock(); local rate=rates[p] or {time=now,n=0}; rates[p]=rate
+ if now-rate.time&gt;1 then rate.time=now; rate.n=0 end
+ rate.n=rate.n+1; if rate.n&gt;32 then return end
+ local profile=profiles[p]
+ if action=='ready' then if profile then update(p) end; return end
+ if not profile or busy[p] then return end
+ local m=matches[p]
+ if action=='input' then
+  if m then
+   local x,y=tonumber(arg.x),tonumber(arg.y)
+   if x and y and x==x and y==y and math.abs(x)&lt;=1 and math.abs(y)&lt;=1 then m.input={x=x,y=y}; m.inputAt=now end
+  end
+  return
+ end
+ if action=='control' then
+  if m and type(arg.action)=='string' then M.command(m,arg.action,arg) end; return
+ end
+ if action=='forfeit' and m then finish(p,m,true); return end
+ if m then emit(p,'toast','Сначала закончи матч'); return end
+ if action=='play' or action=='simulate' then
+  local kind=arg.kind=='cup' and 'cup' or 'league'; local op,err=C.next(profile,kind)
+  if not op then emit(p,'toast',err); return end
+  busy[p]=true
+  if action=='simulate' then
+   local rng=C.rng(profile.seed+profile.season*500+profile.round*71+profile.cupStage*11)
+   local x,y=C.sim(rng,C.strength(profile),op.rating)
+   local goals={}; for _=1,x do local id=profile.lineup[rng(9,11)]; goals[id]=(goals[id] or 0)+1 end
+   finish(p,{home=x,away=y,op=op,scorers=goals,assists={},rng=rng},false)
+  else
+   profile.pending=op
+   local ok,msg=save(p,false)
+   if ok then
+    local match=M.new(profile,op,C,profile.seed+os.time()); matches[p]=match
+    emit(p,'matchStart',M.snapshot(match))
+   else profile.pending=nil; emit(p,'toast',msg) end
+  end
+  busy[p]=nil; return
+ elseif action=='save' then
+  busy[p]=true; local _,msg=save(p,false); busy[p]=nil; emit(p,'toast',msg); update(p); return
+ end
+ local ok,msg=C.action(profile,action,arg)
+ emit(p,'toast',msg); if ok then update(p) end
+end)
+local accum,netAccum=0,0
+RunService.Heartbeat:Connect(function(dt)
+ accum=math.min(accum+dt,.25); netAccum=netAccum+dt
+ while accum&gt;=.05 do
+  accum=accum-.05
+  for p,m in pairs(matches) do
+   if os.clock()-(m.inputAt or 0)&gt;.45 then m.input={x=0,y=0} end
+   M.step(m,.05); if m.ended then finish(p,m,false) end
+  end
+ end
+ if netAccum&gt;=.1 then netAccum=0; for p,m in pairs(matches) do emit(p,'snapshot',M.snapshot(m)) end end
+end)
+local function leave(p)
+ while busy[p] do task.wait(.1) end
+ if matches[p] and profiles[p] then
+  local m=matches[p]; C.finish(profiles[p],m.op,0,3,{},{}); profiles[p].pending=nil; matches[p]=nil
+ end
+ save(p,true); profiles[p]=nil; rates[p]=nil; status[p]=nil; busy[p]=nil
+end
+Players.PlayerRemoving:Connect(leave)
+task.spawn(function()
+ while true do
+  task.wait(60)
+  for p in pairs(profiles) do task.spawn(function() save(p,false); if not matches[p] then update(p) end end) end
+ end
+end)
+game:BindToClose(function()
+ local remaining=0
+ for p in pairs(profiles) do remaining=remaining+1; task.spawn(function() leave(p); remaining=remaining-1 end) end
+ local start=os.clock(); while remaining&gt;0 and os.clock()-start&lt;25 do task.wait(.1) end
+end)
+-- Original, asset-free stadium. All visuals are primitives and generated at runtime.
+local preview=workspace:FindFirstChild('TouchlinePreview'); if preview then preview:Destroy() end
+local world=Instance.new('Folder'); world.Name='TouchlineStadium'; world.Parent=workspace
+local function part(name,size,pos,color)
+ local p=Instance.new('Part'); p.Name=name; p.Anchored=true; p.Size=size; p.Position=pos; p.Color=color; p.Material=Enum.Material.SmoothPlastic; p.Parent=world; return p
+end
+part('Pitch',Vector3.new(150,1,96),Vector3.new(0,-1,0),Color3.fromRGB(28,102,64))
+for i=0,9 do part('Stripe',Vector3.new(15,.1,96),Vector3.new(-67.5+i*15,-.44,0),i%2==0 and Color3.fromRGB(33,117,72) or Color3.fromRGB(28,106,65)) end
+for _,z in ipairs({-48,48}) do part('Touchline',Vector3.new(150,.12,.35),Vector3.new(0,-.3,z),Color3.new(1,1,1)) end
+for _,x in ipairs({-75,0,75}) do part('Line',Vector3.new(.35,.12,96),Vector3.new(x,-.3,0),Color3.new(1,1,1)) end
+for side=-1,1,2 do
+ for row=1,6 do
+  part('Stand',Vector3.new(180,2,5),Vector3.new(0,row*2,side*(54+row*5)),Color3.fromRGB(25+row*3,34+row*3,48+row*3))
+  for seat=1,35 do part('Seat',Vector3.new(2,1.2,2),Vector3.new(-86+seat*4.8,row*2+1.7,side*(54+row*5)),seat%4==0 and Color3.fromRGB(187,242,93) or Color3.fromRGB(48,79,105)) end
+ end
+ for _,z in ipairs({-14,14}) do part('GoalPost',Vector3.new(.6,9,.6),Vector3.new(side*76,4,z),Color3.new(1,1,1)) end
+ part('Crossbar',Vector3.new(.6,.6,28),Vector3.new(side*76,8.5,0),Color3.new(1,1,1))
+end
+local spawn=Instance.new('SpawnLocation'); spawn.Anchored=true; spawn.Size=Vector3.new(10,1,10); spawn.Position=Vector3.new(0,3,100); spawn.Transparency=1; spawn.Neutral=true; spawn.Parent=world
+workspace.Gravity=196.2
+game:GetService('Lighting').ClockTime=16
+game:GetService('Lighting').Ambient=Color3.fromRGB(140,150,170)
+</ProtectedString>
+        </Properties>
+      </Item>
+    </Item>
+  </Item>
+  <Item class="StarterPlayer" referent="RBX48">
+    <Properties>
+      <string name="Name">StarterPlayer</string>
+    </Properties>
+    <Item class="StarterPlayerScripts" referent="RBX49">
+      <Properties>
+        <string name="Name">StarterPlayerScripts</string>
+      </Properties>
+      <Item class="LocalScript" referent="RBX50">
+        <Properties>
+          <string name="Name">TouchlineClient</string>
+          <ProtectedString name="Source">local Players=game:GetService('Players')
+local ReplicatedStorage=game:GetService('ReplicatedStorage')
+local UIS=game:GetService('UserInputService')
+local RunService=game:GetService('RunService')
+local TweenService=game:GetService('TweenService')
+local player=Players.LocalPlayer
+local net=ReplicatedStorage:WaitForChild('TouchlineNet',45)
+local gui=Instance.new('ScreenGui'); gui.Name='TouchlineDynasty'; gui.IgnoreGuiInset=true; gui.ResetOnSpawn=false; gui.ZIndexBehavior=Enum.ZIndexBehavior.Sibling; gui.Parent=player:WaitForChild('PlayerGui')
+local color={bg=Color3.fromRGB(10,16,24),panel=Color3.fromRGB(19,28,40),card=Color3.fromRGB(26,38,52),muted=Color3.fromRGB(151,169,187),text=Color3.fromRGB(238,244,250),lime=Color3.fromRGB(190,243,103),red=Color3.fromRGB(255,122,125),blue=Color3.fromRGB(99,184,255)}
+local function make(class,props,parent)
+ local obj=Instance.new(class); for k,v in pairs(props or {}) do obj[k]=v end; obj.Parent=parent; return obj
+end
+local function corner(obj,r) make('UICorner',{CornerRadius=UDim.new(0,r or 12)},obj) end
+local function frame(parent,x,y,w,h,bg)
+ return make('Frame',{Position=UDim2.fromOffset(x,y),Size=UDim2.fromOffset(w,h),BackgroundColor3=bg or color.panel,BorderSizePixel=0},parent)
+end
+local function label(parent,text,x,y,w,h,size,ink,bold)
+ return make('TextLabel',{Text=text,Position=UDim2.fromOffset(x,y),Size=UDim2.fromOffset(w,h),BackgroundTransparency=1,TextColor3=ink or color.text,TextSize=size or 18,Font=bold and Enum.Font.GothamBold or Enum.Font.Gotham,TextXAlignment=Enum.TextXAlignment.Left,TextYAlignment=Enum.TextYAlignment.Center,TextTruncate=Enum.TextTruncate.AtEnd},parent)
+end
+local function button(parent,text,x,y,w,h,callback,style)
+ local bright=style=='primary'; local b=make('TextButton',{Text=text,Position=UDim2.fromOffset(x,y),Size=UDim2.fromOffset(w,h),BackgroundColor3=bright and color.lime or color.card,BorderSizePixel=0,TextColor3=bright and color.bg or style=='danger' and color.red or color.text,Font=Enum.Font.GothamBold,TextSize=16,AutoButtonColor=true},parent)
+ corner(b,10); b.Activated:Connect(callback); return b
+end
+local function card(parent,x,y,w,h) local f=frame(parent,x,y,w,h,color.card); corner(f,14); return f end
+local bg=make('Frame',{Size=UDim2.fromScale(1,1),BackgroundColor3=color.bg,BorderSizePixel=0},gui)
+local root=frame(gui,0,0,1280,800,color.bg); root.AnchorPoint=Vector2.new(.5,.5); root.Position=UDim2.fromScale(.5,.5)
+local scaler=make('UIScale',{},root)
+local function resize()
+ local camera=workspace.CurrentCamera; if camera then local v=camera.ViewportSize; scaler.Scale=math.min(v.X/1280,v.Y/800) end
+end
+resize(); workspace.CurrentCamera:GetPropertyChangedSignal('ViewportSize'):Connect(resize)
+local shell=frame(root,0,0,1280,800,color.bg)
+local side=frame(shell,0,0,220,800,color.panel)
+label(side,'TOUCHLINE',22,26,180,30,24,color.lime,true); label(side,'D Y N A S T Y',24,58,180,24,14,color.muted)
+label(side,'ТВОЯ КЛУБНАЯ ИСТОРИЯ',24,106,184,20,11,color.muted)
+local header=frame(shell,244,18,1012,80,color.bg)
+local content=make('ScrollingFrame',{Position=UDim2.fromOffset(244,116),Size=UDim2.fromOffset(1012,660),BackgroundTransparency=1,BorderSizePixel=0,ScrollBarThickness=5,ScrollBarImageColor3=color.muted,CanvasSize=UDim2.fromOffset(0,680)},shell)
+local profile=nil; local currentTab='Клуб'; local selectedSlot=nil; local match=nil; local snapshot=nil; local drawPositions={}; local tabButtons={}; local draw
+local command=net and net:WaitForChild('Command'); local event=net and net:WaitForChild('Event')
+local function send(action,arg) if command then command:FireServer(action,arg or {}) end end
+local function cash(n)
+ if n&gt;=1000000 then return string.format('€ %.2f млн',n/1000000) end
+ return '€ '..tostring(math.floor(n/1000))..' тыс'
+end
+local toast=label(root,'',270,738,740,48,18,color.lime,true); toast.BackgroundColor3=color.panel; toast.BackgroundTransparency=.04; toast.ZIndex=50; toast.Visible=false; corner(toast,12)
+local toastId=0
+local function notify(text)
+ toastId=toastId+1; local id=toastId; toast.Text='   '..tostring(text); toast.Visible=true
+ task.delay(3.5,function() if id==toastId then toast.Visible=false end end)
+end
+local overlay=nil
+local function modal(title,body,yes,callback)
+ if overlay then overlay:Destroy() end
+ overlay=frame(root,0,0,1280,800,Color3.new(0,0,0)); overlay.BackgroundTransparency=.25; overlay.ZIndex=30
+ local box=card(overlay,360,230,560,310); box.ZIndex=31
+ local t=label(box,title,28,24,504,50,25,color.text,true); t.ZIndex=32
+ local b=label(box,body,28,85,504,106,18,color.muted); b.TextWrapped=true; b.TextTruncate=Enum.TextTruncate.None; b.ZIndex=32
+ local function close() if overlay then overlay:Destroy(); overlay=nil end end
+ local ok=button(box,yes or 'Продолжить',28,230,245,52,function() close(); if callback then callback() end end,'primary'); ok.ZIndex=32
+ if callback then local no=button(box,'Отмена',288,230,245,52,close); no.ZIndex=32 end
+end
+local function find(id) if profile then for _,q in ipairs(profile.roster) do if q.id==id then return q end end end end
+local function section(text,y) label(content,text,0,y,1000,35,22,color.text,true) end
+local function explain(text,y) label(content,text,0,y,990,30,16,color.muted) end
+local function headerDraw()
+ header:ClearAllChildren()
+ label(header,profile.club,0,0,650,40,28,color.text,true)
+ label(header,'СЕЗОН '..profile.season..'   /   ДИВИЗИОН '..profile.division..'   /   ТУР '..math.min(14,profile.round)..' ИЗ 14',0,45,650,24,13,color.muted)
+ label(header,cash(profile.cash),720,5,290,36,25,color.lime,true)
+ label(header,'Сила '..profile.strength..'   •   Репутация '..profile.reputation,720,44,290,25,14,color.muted)
+end
+local function dashboard()
+ local hero=card(content,0,0,995,238)
+ label(hero,'СЛЕДУЮЩАЯ ГЛАВА',25,18,600,22,12,color.lime,true)
+ label(hero,profile.next and profile.next.name or 'Сезон завершён',25,53,930,50,32,color.text,true)
+ label(hero,profile.next and ((profile.next.home and 'Домашний матч' or 'Выездной матч')..'   •   Сила соперника '..profile.next.rating..'   •   2 минуты') or 'Забери награду и переходи в новый сезон',25,110,930,30,17,color.muted)
+ if profile.next then
+  button(hero,'ИГРАТЬ МАТЧ',25,167,265,48,function() send('play',{kind='league'}) end,'primary')
+  button(hero,'Симулировать',305,167,230,48,function() send('simulate',{kind='league'}) end)
+ else button(hero,'НОВЫЙ СЕЗОН',25,167,300,48,function() send('season') end,'primary') end
+ local a=card(content,0,256,320,114); label(a,'ТРОФЕИ',20,15,270,24,12,color.muted); label(a,tostring(profile.trophies),20,45,270,48,34,color.lime,true)
+ local b=card(content,337,256,320,114); label(b,'ПОБЕДЫ В КАРЬЕРЕ',20,15,270,24,12,color.muted); label(b,tostring(profile.wins),20,45,270,48,34,color.text,true)
+ local c=card(content,674,256,321,114); label(c,'ТВОЯ КОМАНДА',20,15,270,24,12,color.muted); label(c,#profile.roster..' игроков',20,45,280,48,26,color.text,true)
+ local cup=card(content,0,390,995,142)
+ label(cup,'КУБОК СОЗВЕЗДИЙ',22,15,450,30,20,color.text,true)
+ label(cup,profile.cupDone and 'Трофей твой. Отличный сезон!' or not profile.cupAlive and 'Команда выбыла. Новый шанс в следующем сезоне.' or ({'Четвертьфинал','Полуфинал','Финал'})[profile.cupStage],22,55,550,30,17,color.muted)
+ if profile.cupAlive and not profile.cupDone then
+  button(cup,'Играть кубок',620,20,350,45,function() send('play',{kind='cup'}) end,'primary')
+  button(cup,'Симуляция кубка',620,78,350,43,function() send('simulate',{kind='cup'}) end)
+ end
+ section('Последний результат',553); explain(profile.lastResult~='' and profile.lastResult or 'Первый свисток ещё впереди. Твоя история начинается здесь.',595)
+ label(content,profile.saveStatus or '',0,633,995,24,13,color.muted)
+end
+local function squad()
+ section('Тактика и стартовый состав',0)
+ for i,f in ipairs({'4-3-3','4-4-2','3-5-2'}) do button(content,f, (i-1)*130,45,120,40,function() send('formation',{value=f}) end,profile.formation==f and 'primary' or nil) end
+ for i,t in ipairs({{'defend','Защита'},{'balanced','Баланс'},{'attack','Атака'}}) do button(content,t[2],410+(i-1)*130,45,120,40,function() send('mentality',{value=t[1]}) end,profile.mentality==t[1] and 'primary' or nil) end
+ button(content,'Отдых · 30 тыс',810,45,180,40,function() send('rest') end)
+ explain(selectedSlot and ('Замена позиции №'..selectedSlot..': выбери футболиста ниже') or 'Нажми «Заменить», затем выбери игрока. Чужая позиция снижает силу.',98)
+ local roles={'GK'}; local groups=profile.formation=='4-4-2' and {4,4,2} or profile.formation=='3-5-2' and {3,5,2} or {4,3,3}
+ for g,n in ipairs(groups) do for _=1,n do roles[#roles+1]=({'DEF','MID','FWD'})[g] end end
+ local lineup={}; for slot,id in ipairs(profile.lineup) do lineup[id]=slot end
+ local sorted={}; for _,id in ipairs(profile.lineup) do table.insert(sorted,find(id)) end
+ for _,q in ipairs(profile.roster) do if not lineup[q.id] then table.insert(sorted,q) end end
+ local y=145
+ for _,q in ipairs(sorted) do
+  local slot=lineup[q.id]; local row=card(content,0,y,995,60)
+  label(row,slot and ('#'..slot..'  '..roles[slot]) or 'ЗАПАС',15,8,100,44,14,slot and color.lime or color.muted,true)
+  label(row,q.name,125,4,260,29,17,color.text,true)
+  label(row,q.pos..'  •  '..q.age..' лет   •   потенциал '..q.potential,125,31,290,22,12,color.muted)
+  label(row,tostring(q.rating),420,8,55,44,26,color.lime,true)
+  label(row,'Форма '..q.fitness..'%',490,6,140,25,14,q.fitness&lt;65 and color.red or color.muted)
+  label(row,q.goals..' гол.  '..q.assists..' пас.',490,32,140,20,12,color.muted)
+  if selectedSlot then
+   button(row,'Поставить',675,10,145,40,function() send('swap',{slot=selectedSlot,id=q.id}); selectedSlot=nil end,'primary')
+  elseif slot then button(row,'Заменить',675,10,145,40,function() selectedSlot=slot; draw() end)
+  else button(row,'В состав',675,10,145,40,function() notify('Сначала нажми «Заменить» у игрока основы') end) end
+  if not slot then button(row,'Продать',835,10,145,40,function()
+   modal('Продать игрока?',q.name..' покинет клуб. Цена продажи — 75% оценочной стоимости.','Продать',function() send('sell',{id=q.id}) end)
+  end,'danger') end
+  y=y+70
+ end
+ content.CanvasSize=UDim2.fromOffset(0,y+20)
+end
+local function market()
+ section('Трансферный рынок',0); explain('Новые предложения после тура лиги. Лимит состава: 25 игроков.',43)
+ local y=94
+ for _,q in ipairs(profile.market) do
+  local row=card(content,0,y,995,78)
+  label(row,tostring(q.rating),18,16,70,45,30,color.lime,true)
+  label(row,q.name,105,9,360,30,20,color.text,true)
+  label(row,q.pos..'   •   '..q.age..' лет   •   потенциал '..q.potential..(q.free and '   •   свободный агент' or ''),105,43,550,25,14,color.muted)
+  button(row,cash(q.price)..'  /  Купить',705,17,270,44,function() send('buy',{id=q.id}) end,'primary'); y=y+90
+ end
+ content.CanvasSize=UDim2.fromOffset(0,y)
+end
+local function academy()
+ section('Построй будущее клуба',0); explain('Тренировки растят рейтинг после матчей. Академия выпускает молодёжь раз в сезон.',44)
+ local defs={{'training','Тренировочная база','Больше опыта за каждый сыгранный матч.'},{'academy','Академия','Выше стартовый рейтинг новых талантов.'},{'stadium','Стадион','Больше дохода за каждый матч.'}}
+ for i,d in ipairs(defs) do
+  local y=100+(i-1)*138; local n=profile.upgrades[d[1]]; local box=card(content,0,y,995,120)
+  label(box,d[2],22,14,620,32,22,color.text,true); label(box,'Уровень '..n..'/10  •  '..d[3],22,60,670,35,15,color.muted)
+  button(box,n&lt;10 and ('Улучшить · '..cash(n*n*80000)) or 'Максимум',702,36,270,48,function() send('upgrade',{key=d[1]}) end,n&lt;10 and 'primary' or nil)
+ end
+ button(content,'Набор в академию · € 40 тыс',0,530,450,54,function() send('academy') end,'primary')
+ explain(profile.academyYear==profile.season and 'Выпускник этого сезона уже в твоём составе.' or 'Выпускнику 16 лет. Найди место будущему капитану.',604)
+end
+local function league()
+ section('Дивизион '..profile.division,0); explain('14 туров • топ-2 повышаются • последние 2 вылетают • разница мячей решает равенство очков',44)
+ local columns={{'КЛУБ',64,370},{'И',470,60},{'В',550,60},{'Н',630,60},{'П',710,60},{'МЯЧИ',790,110},{'О',920,60}}
+ for _,c in ipairs(columns) do label(content,c[1],c[2],100,c[3],25,13,color.muted,true) end
+ for i,t in ipairs(profile.table) do
+  local row=card(content,0,140+(i-1)*59,995,51)
+  if t.name==profile.club then row.BackgroundColor3=Color3.fromRGB(40,61,42) end
+  label(row,tostring(i),18,4,40,43,18,color.lime,true); label(row,t.name,64,4,370,43,17,color.text,true)
+  for k,v in ipairs({t.played,t.w,t.d,t.l,t.gf..':'..t.ga,t.pts}) do label(row,tostring(v),({470,550,630,710,790,920})[k],4,k==5 and 110 or 60,43,18,k==6 and color.lime or color.text,k==6) end
+ end
+end
+local function history()
+ section('Карьера менеджера',0); explain('Репутация '..profile.reputation..'   •   Трофеи '..profile.trophies..'   •   Победы '..profile.wins,43)
+ for i,name in ipairs({'Одесский Маяк','Киев Аврора','Львов Роверс'}) do
+  button(content,name,(i-1)*335,94,320,46,function()
+   modal('Сменить клуб?',name..': новый состав, бюджет и инфраструктура. Трофеи менеджера сохраняются. Цена: 30 репутации.','Принять',function() send('job',{index=i}) end)
+  end)
+ end
+ explain('Предложения доступны с сезона 2, до первого тура. Требуется 30 репутации.',151)
+ section('Лента результатов',204)
+ local y=250
+ for i=#profile.history,1,-1 do local r=card(content,0,y,995,50); label(r,profile.history[i],18,4,960,42,16,color.text); y=y+59 end
+ content.CanvasSize=UDim2.fromOffset(0,math.max(650,y))
+end
+local function help()
+ section('Твоя команда. Твои решения.',0)
+ local text='МАТЧ НА КОМПЬЮТЕРЕ\nWASD / стрелки — движение. E — пас. Пробел — удар.\nQ — выбрать ближайшего к мячу игрока. F — отбор.\nКлик по полю — бежать в точку. Мышь задаёт высоту удара по воротам.\n\nНА ТЕЛЕФОНЕ\nЛевый стик — движение. Справа — удар, пас, отбор и смена игрока.\nЛучше играть в горизонтальном положении.\n\nКАРЬЕРА\nПроведи 14 туров и закончи кубок, затем начни новый сезон.\nРейтинг, позиция и усталость влияют на силу команды.\nИгроки получают опыт, стареют и в 36 лет уступают место молодёжи.\nУ каждой карьеры свой состав и потенциал игроков.\n\nСОХРАНЕНИЯ\nАвтосохранение каждую минуту, после матча и при выходе.\nВыход из незавершённого матча считается поражением 0:3.\nВ неопубликованном Studio доступна временная тестовая карьера.'
+ local t=label(content,text,0,55,995,500,18,color.muted); t.TextWrapped=true; t.TextTruncate=Enum.TextTruncate.None; t.TextYAlignment=Enum.TextYAlignment.Top
+ button(content,'Сохранить сейчас',0,585,330,54,function() send('save') end,'primary')
+end
+local pages={['Клуб']=dashboard,['Состав']=squad,['Трансферы']=market,['Развитие']=academy,['Лига']=league,['Карьера']=history,['Помощь']=help}
+draw=function()
+ if not profile then return end
+ headerDraw(); content:ClearAllChildren(); content.CanvasPosition=Vector2.new(0,0); content.CanvasSize=UDim2.fromOffset(0,660)
+ for name,b in pairs(tabButtons) do b.BackgroundColor3=name==currentTab and color.lime or color.panel; b.TextColor3=name==currentTab and color.bg or color.muted end
+ pages[currentTab]()
+end
+for i,name in ipairs({'Клуб','Состав','Трансферы','Развитие','Лига','Карьера','Помощь'}) do
+ tabButtons[name]=button(side,name,16,153+(i-1)*67,188,52,function() currentTab=name; selectedSlot=nil; draw() end)
+end
+label(side,'11 НА 11. ОДНА ДИНАСТИЯ.',20,716,190,30,10,color.muted)
+label(side,'ORIGINAL ROBLOX EDITION',20,750,190,22,10,color.lime)
+label(content,'Загружаем твою карьеру…',0,180,995,60,28,color.text,true)
+-- A top-down stadium, rendered from server snapshots with interpolation.
+local matchRoot=frame(root,0,0,1280,800,color.bg); matchRoot.Visible=false
+local scoreLabel=label(matchRoot,'0 : 0',480,10,320,55,36,color.text,true); scoreLabel.TextXAlignment=Enum.TextXAlignment.Center
+local minuteLabel=label(matchRoot,"0′",590,67,100,30,19,color.lime,true); minuteLabel.TextXAlignment=Enum.TextXAlignment.Center
+local homeName=label(matchRoot,'',30,20,440,40,21,color.lime,true)
+local awayName=label(matchRoot,'',810,20,440,40,21,color.red,true); awayName.TextXAlignment=Enum.TextXAlignment.Right
+local field=frame(matchRoot,65,110,1150,610,Color3.fromRGB(31,104,66)); corner(field,8)
+for i=0,9 do local stripe=frame(field,i*115,0,115,610,i%2==0 and Color3.fromRGB(33,115,72) or Color3.fromRGB(29,105,65)); stripe.ZIndex=1 end
+local lines=Color3.fromRGB(155,200,165)
+local function pitchLine(x,y,w,h) local f=frame(field,x,y,w,h,lines); f.BackgroundTransparency=.2; f.ZIndex=2; return f end
+pitchLine(0,0,1150,3); pitchLine(0,607,1150,3); pitchLine(0,0,3,610); pitchLine(1147,0,3,610); pitchLine(574,0,3,610)
+local circle=frame(field,475,205,200,200,lines); circle.BackgroundTransparency=1; circle.ZIndex=2; corner(circle,100)
+make('UIStroke',{Color=lines,Thickness=2,Transparency=.2},circle)
+for _,x in ipairs({0,966}) do
+ pitchLine(x,133,184,2); pitchLine(x,475,184,2); pitchLine(x==0 and 184 or 966,133,2,344)
+ pitchLine(x==0 and 0 or 1081,219,69,2); pitchLine(x==0 and 0 or 1081,390,69,2); pitchLine(x==0 and 69 or 1081,219,2,173)
+end
+local leftGoal=frame(field,-20,219,20,172,Color3.fromRGB(185,200,215)); leftGoal.BackgroundTransparency=.3; leftGoal.ZIndex=2
+local rightGoal=frame(field,1150,219,20,172,Color3.fromRGB(185,200,215)); rightGoal.BackgroundTransparency=.3; rightGoal.ZIndex=2
+local dots={}
+for i=1,22 do
+ local d=frame(field,0,0,30,30,i&lt;=11 and color.lime or color.red); d.AnchorPoint=Vector2.new(.5,.5); corner(d,15); d.ZIndex=5
+ local stroke=make('UIStroke',{Color=Color3.fromRGB(12,26,24),Thickness=2},d)
+ local n=label(d,tostring((i-1)%11+1),0,0,30,30,13,color.bg,true); n.TextXAlignment=Enum.TextXAlignment.Center; n.ZIndex=6
+ dots[i]={frame=d,stroke=stroke}
+end
+local ball=frame(field,0,0,13,13,Color3.new(1,1,1)); ball.AnchorPoint=Vector2.new(.5,.5); corner(ball,7); ball.ZIndex=8
+make('UIStroke',{Color=Color3.fromRGB(15,25,25),Thickness=2},ball)
+local notice=label(matchRoot,'',210,347,860,65,29,color.text,true); notice.TextXAlignment=Enum.TextXAlignment.Center; notice.ZIndex=12
+local controlHelp=label(matchRoot,'WASD — движение   E — пас   ПРОБЕЛ — удар   Q — смена   F — отбор',65,741,1000,34,16,color.muted)
+button(matchRoot,'Выйти',1120,743,95,38,function() modal('Покинуть матч?','Будет записано техническое поражение 0:3.','Выйти',function() send('forfeit') end) end,'danger')
+local function fieldPoint(screen)
+ local pos,size=field.AbsolutePosition,field.AbsoluteSize
+ return (screen.X-pos.X)/size.X*100,(screen.Y-pos.Y)/size.Y*64
+end
+field.InputBegan:Connect(function(input)
+ if input.UserInputType==Enum.UserInputType.MouseButton1 or input.UserInputType==Enum.UserInputType.Touch then
+  local x,y=fieldPoint(input.Position); send('control',{action='target',x=x,y=y})
+ end
+end)
+local keys={}; local joystick=Vector2.new(0,0); local stickTouch=nil
+local mobile=make('Frame',{Size=UDim2.fromScale(1,1),BackgroundTransparency=1,Visible=false},gui)
+local stick=make('Frame',{Position=UDim2.new(0,22,1,-130),Size=UDim2.fromOffset(104,104),BackgroundColor3=color.panel,BackgroundTransparency=.15,Active=true,BorderSizePixel=0},mobile); corner(stick,52)
+local thumb=frame(stick,32,32,40,40,color.lime); corner(thumb,20)
+local function stickMove(pos)
+ local centre=stick.AbsolutePosition+stick.AbsoluteSize/2; local delta=Vector2.new(pos.X,pos.Y)-centre
+ if delta.Magnitude&gt;36 then delta=delta.Unit*36 end
+ joystick=delta/36; thumb.Position=UDim2.fromOffset(32+delta.X,32+delta.Y)
+end
+stick.InputBegan:Connect(function(input) if input.UserInputType==Enum.UserInputType.Touch then stickTouch=input; stickMove(input.Position) end end)
+UIS.InputChanged:Connect(function(input) if input==stickTouch then stickMove(input.Position) end end)
+UIS.InputEnded:Connect(function(input)
+ if input==stickTouch then stickTouch=nil; joystick=Vector2.new(0,0); thumb.Position=UDim2.fromOffset(32,32) end
+ keys[input.KeyCode]=nil
+end)
+local function action(a)
+ local y=32
+ if not UIS.TouchEnabled then local _,fy=fieldPoint(UIS:GetMouseLocation()); y=math.clamp(fy,24,40) end
+ send('control',{action=a,y=y})
+end
+for i,d in ipairs({{'shoot','УДАР'},{'pass','ПАС'},{'tackle','ОТБОР'},{'switch','СМЕНА'}}) do
+ local b=button(mobile,d[2],0,0,68,52,function() action(d[1]) end,i==1 and 'primary' or nil)
+ b.Position=UDim2.new(1,-(i&lt;=2 and 170 or 90),1,-(i%2==1 and 132 or 70)); b.TextSize=12
+end
+UIS.InputBegan:Connect(function(input,processed)
+ if processed or not match then return end
+ keys[input.KeyCode]=true
+ local k=input.KeyCode
+ if k==Enum.KeyCode.Space then action('shoot') elseif k==Enum.KeyCode.E then action('pass') elseif k==Enum.KeyCode.Q then action('switch') elseif k==Enum.KeyCode.F then action('tackle') end
+end)
+local function matchStart(s)
+ match=true; snapshot=s; drawPositions={}; keys={}; joystick=Vector2.new(0,0)
+ shell.Visible=false; matchRoot.Visible=true; mobile.Visible=UIS.TouchEnabled; homeName.Text=profile and profile.club or 'Твой клуб'; awayName.Text=s.op
+ if overlay then overlay:Destroy(); overlay=nil end
+end
+local inputAccum=0
+RunService.RenderStepped:Connect(function(dt)
+ local camera=workspace.CurrentCamera
+ if camera then camera.CameraType=Enum.CameraType.Scriptable; camera.CFrame=CFrame.new(Vector3.new(0,160,80),Vector3.new(0,0,0)) end
+ if not match or not snapshot then return end
+ scoreLabel.Text=snapshot.home..' : '..snapshot.away; minuteLabel.Text=tostring(snapshot.minute)..'′'; notice.Text=snapshot.notice or ''
+ for i,p in ipairs(snapshot.players) do
+  local target=Vector2.new(p.x*11.5,p.y*610/64); local current=drawPositions[i] or target
+  current=current:Lerp(target,math.min(1,dt*18)); drawPositions[i]=current
+  dots[i].frame.Position=UDim2.fromOffset(current.X,current.Y)
+  dots[i].frame.BackgroundColor3=p.gk and (i&lt;=11 and color.blue or Color3.fromRGB(255,191,94)) or i&lt;=11 and color.lime or color.red
+  dots[i].stroke.Color=i==snapshot.controlled and Color3.new(1,1,1) or color.bg; dots[i].stroke.Thickness=i==snapshot.controlled and 4 or 2
+ end
+ local target=Vector2.new(snapshot.ball.x*11.5,snapshot.ball.y*610/64); local b=drawPositions[23] or target; b=b:Lerp(target,math.min(1,dt*23)); drawPositions[23]=b; ball.Position=UDim2.fromOffset(b.X,b.Y)
+ inputAccum=inputAccum+dt
+ if inputAccum&gt;=.08 then
+  inputAccum=0
+  local x=(keys[Enum.KeyCode.D] or keys[Enum.KeyCode.Right]) and 1 or 0; x=x-((keys[Enum.KeyCode.A] or keys[Enum.KeyCode.Left]) and 1 or 0)
+  local y=(keys[Enum.KeyCode.S] or keys[Enum.KeyCode.Down]) and 1 or 0; y=y-((keys[Enum.KeyCode.W] or keys[Enum.KeyCode.Up]) and 1 or 0)
+  if joystick.Magnitude&gt;.05 then x=joystick.X; y=joystick.Y end
+  send('input',{x=x,y=y})
+ end
+end)
+if event then
+ event.OnClientEvent:Connect(function(kind,data)
+  if kind=='profile' then profile=data; if not match then draw() end
+  elseif kind=='toast' then notify(data)
+  elseif kind=='matchStart' then matchStart(data)
+  elseif kind=='snapshot' then snapshot=data
+  elseif kind=='result' then
+   match=nil; snapshot=nil; shell.Visible=true; matchRoot.Visible=false; mobile.Visible=false; keys={}; currentTab='Клуб'
+   local text=tostring(data.home)..' : '..tostring(data.away)..'   '..data.op..'\nДоход: '..cash(data.income)
+   if data.penalties then text=text..'\n'..(data.penWin and 'Победа в серии пенальти!' or 'Поражение в серии пенальти') end
+   modal('Матч завершён',text,'Дальше'); if profile then draw() end
+  end
+ end)
+ send('ready')
+ task.spawn(function() for _=1,30 do if profile then return end; task.wait(2); send('ready') end; notify('Загрузка затянулась. Проверь Output в Studio.') end)
+else notify('Сервер не запустился. Открой Output в Roblox Studio.') end
+pcall(function() require(player.PlayerScripts:WaitForChild('PlayerModule')):GetControls():Disable() end)
+</ProtectedString>
+        </Properties>
+      </Item>
+    </Item>
+  </Item>
+</roblox>
