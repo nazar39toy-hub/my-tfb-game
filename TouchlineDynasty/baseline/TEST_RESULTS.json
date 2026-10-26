@@ -1,0 +1,20 @@
+{
+  "runtime": "Lua 5.5 via lupa; not Roblox Studio",
+  "passed": [
+    "Syntax: Storage.lua",
+    "Syntax: Server.server.lua",
+    "Syntax: Career.lua",
+    "Syntax: Match.lua",
+    "Syntax: Client.client.lua",
+    "Round robin: 14 rounds, each pair home and away once",
+    "Transfers: exact budget, no duplicate buys, lineup sale rejected",
+    "Lineup swaps remain unique and formations contain 11 roles",
+    "Academy once per season; upgrades price and level cap",
+    "Cup: win all three rounds, no replay and trophy reward",
+    "Season promotion, prize money, retirement and new calendar",
+    "Twenty full careers: economy, roster and fitness invariants",
+    "Match commands, finite bounds, 22 players, ending",
+    "Goal detection, own goals, out of bounds and score snapshots"
+  ],
+  "count": 14
+}

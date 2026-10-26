@@ -1,0 +1,542 @@
+{
+  "TouchlineDynasty/AUDIT_RU.md": {
+    "bytes": 5724,
+    "sha256": "c8acc19e4e3f0ca2b52c7ac8b5bcd77f6df8a87bcb586e980977a1b02edf0996",
+    "git_blob_sha1": "0b28098de26186374f9635a8637fd4113c5c582f"
+  },
+  "TouchlineDynasty/BALANCE_PREFLIGHT.csv": {
+    "bytes": 4547,
+    "sha256": "7c61e09f6e528dd9260ec91fb6cff27795c91b71e7fb380ea5c430f6c15ecdc1",
+    "git_blob_sha1": "a2f02930990b8ad7d8f30d7fb6535658a5aab180"
+  },
+  "TouchlineDynasty/BALANCE_RAW.csv": {
+    "bytes": 81119,
+    "sha256": "b51e082b97a60a90b5ea20734145e288a9397b001cf8fcdafb32ce03d18f87ef",
+    "git_blob_sha1": "141a404c1777fe732f44767a0aff2364be6abe11"
+  },
+  "TouchlineDynasty/BALANCE_REPORT_RU.md": {
+    "bytes": 4975,
+    "sha256": "cdc4d140ea7256813c8c2ea76410b715f31fb82a1a7155a111fd32005ff0351b",
+    "git_blob_sha1": "c5d5b6b657280b741c5d4fa4536863cc28b30fff"
+  },
+  "TouchlineDynasty/BALANCE_RUN_METADATA.json": {
+    "bytes": 2693,
+    "sha256": "03b2e75c9f58ed7dbb0363e42eba151493f4d098c7964aed6c92e1d2f8d4571e",
+    "git_blob_sha1": "f05cd1c29ff2c3db3226b0c14888dc3400f7da4d"
+  },
+  "TouchlineDynasty/BUILD_MANIFEST.json": {
+    "bytes": 2787,
+    "sha256": "d1d4121db35c41f05bfbc10b174c67fcf64c51f5e532cded42285ef2c8ea0d39",
+    "git_blob_sha1": "1626dfed1fb5c647abd289b4588e6eb7c76a5385"
+  },
+  "TouchlineDynasty/CHANGELOG_RU.md": {
+    "bytes": 6206,
+    "sha256": "3d5ba998a5e2f7aedd747a82c645911ae20b184d65ba51633e8ca5c06ce3da29",
+    "git_blob_sha1": "81d48e1d143d7bab596ff41c94b5917a553a1d9f"
+  },
+  "TouchlineDynasty/DEVELOPMENT_GAPS_RU.md": {
+    "bytes": 6355,
+    "sha256": "a58dc49bb35c354b832613e126835bbf46396e8522ab1dcd1add6b5ac8909cc1",
+    "git_blob_sha1": "d2ce823b4c2454faf2255010f7427b35783a261a"
+  },
+  "TouchlineDynasty/FINAL_VERIFY.json": {
+    "bytes": 3274,
+    "sha256": "a04aa476a473b5d4c9748df6172c18a3b0267e3c4b1670e2779b0b326965f01d",
+    "git_blob_sha1": "4f3ddd044215f72b7750db89a52da469a71fb543"
+  },
+  "TouchlineDynasty/INSTALL_STUDIO.lua": {
+    "bytes": 382930,
+    "sha256": "ed0a1689957d9b66dfbce3d685b996995743be8622993ea34412a237d94499b5",
+    "git_blob_sha1": "3c7b471201053ee87f91823db5ee112d6f8dfbc9"
+  },
+  "TouchlineDynasty/LOCALIZATION_RU.md": {
+    "bytes": 6986,
+    "sha256": "c7732d4064732a7ee3e3acaddf024d00e8949fc219813a9a751c41972f11a6cf",
+    "git_blob_sha1": "66b9c6a1b99efbdc2287020e71db4834458e0ecc"
+  },
+  "TouchlineDynasty/MASTER_PROMPT_RU.md": {
+    "bytes": 56896,
+    "sha256": "2df414a61ed0020d996891fa6ee9e608e76ee76e3211654fc03b2997a84ebad1",
+    "git_blob_sha1": "c0d22f9ed14ecc13d78811350d1b6093945b5563"
+  },
+  "TouchlineDynasty/MONETIZATION_STORAGE_RU.md": {
+    "bytes": 7115,
+    "sha256": "9026958e069a97fea4431f6c54873b75ed6b80d822f41ab7cb422b445d53294c",
+    "git_blob_sha1": "8b47548dab00af1e14248a589ad5f16c139c8df0"
+  },
+  "TouchlineDynasty/NATIVE_TEST_RESULTS.json": {
+    "bytes": 9836,
+    "sha256": "39cccb03a6b31b4cbdb93573fe3933e28702ab82148c47f117438fc622f32c8f",
+    "git_blob_sha1": "ffde3fbf2020c304224b24ff01edb9d18d62d50b"
+  },
+  "TouchlineDynasty/PERFORMANCE_NATIVE.json": {
+    "bytes": 254,
+    "sha256": "8ff96d98bee61f59cde5a63c0ed1e771c6fb61a4941fd8dfb1cd5a745ad552b5",
+    "git_blob_sha1": "deac6d34a59a86deef185fda52ce474c4ae6d8bd"
+  },
+  "TouchlineDynasty/PERFORMANCE_REPORT_RU.md": {
+    "bytes": 1428,
+    "sha256": "5c139fa2c778e1647cb2eb7a308cdabceb213cd960d6dfd07339848f934558c5",
+    "git_blob_sha1": "5945a087b67f4617756cd0573d8296dd862ab42a"
+  },
+  "TouchlineDynasty/QA_REPORT_RU.md": {
+    "bytes": 7951,
+    "sha256": "9dc82edbe93687298ef76765c80c6f0bd49d8aa2c1e3163fa7ddac68475ff0a9",
+    "git_blob_sha1": "1a6211d077ecbff217229a45c57429b9fb6ec642"
+  },
+  "TouchlineDynasty/RELEASE_CHECKLIST_RU.md": {
+    "bytes": 2667,
+    "sha256": "36eca7bc06fac49ad3c27cbc2cc5afcb6af5974f1311985f2b3f0ec24f346e8f",
+    "git_blob_sha1": "32be96cd90cc021db1534ca7726778f68407a27d"
+  },
+  "TouchlineDynasty/SOAK_NATIVE.json": {
+    "bytes": 1348,
+    "sha256": "fb9a3a5df7c4a4c7d3dc05667ec9378ffeca66dc3ef1543608612ab842409e31",
+    "git_blob_sha1": "b7c5b1b10f7959757e6235c24bfaabc1dbb448e4"
+  },
+  "TouchlineDynasty/SOAK_REPORT_RU.md": {
+    "bytes": 935,
+    "sha256": "655ade3c22d93bca2ce229316b6dc098f1296edce6729b4f12b284b1bd39fdfd",
+    "git_blob_sha1": "3d934a8ec4281667a565c4bc41d15fbe615ebe60"
+  },
+  "TouchlineDynasty/START_HERE_RU.md": {
+    "bytes": 9357,
+    "sha256": "d560eb09ee3bb891030d3a2d8d3acfcb0087fe00afb9359cc4528bdb450d9308",
+    "git_blob_sha1": "7673307271881c9bf9bbf4be300700ce1dd7d9ba"
+  },
+  "TouchlineDynasty/STUDIO_QA_RU.md": {
+    "bytes": 2696,
+    "sha256": "484398646a93584fe632e1455b59043dd59cdba01903e55bd7e1e4494cae0fd1",
+    "git_blob_sha1": "bcdbbcce6470f0d9b50a5a12173fdd0c20342bfe"
+  },
+  "TouchlineDynasty/STYLE_RAW.csv": {
+    "bytes": 14126,
+    "sha256": "7c034aa2d070ccfde6d7d57742fcafa3b9321b78943122cc4828d05906ba4c00",
+    "git_blob_sha1": "d3cc1dae62cde08485432ed3f039f2786c325293"
+  },
+  "TouchlineDynasty/STYLE_REPORT_RU.md": {
+    "bytes": 2425,
+    "sha256": "3b829ad5a0be610d92b848238c5bcb9d3e5c86787ae92a062b8bfaa10d578976",
+    "git_blob_sha1": "f57436612181c269d1891ae318d49e339e72388f"
+  },
+  "TouchlineDynasty/TouchlineDynasty.rbxlx": {
+    "bytes": 92565,
+    "sha256": "09aa48172dfa6731ceac312146566fed8cc1ff9821f14cc45e5ae2d5c7670dc8",
+    "git_blob_sha1": "613abbabb503dba8b46832b04289e6bc9ab2e90d"
+  },
+  "TouchlineDynasty/TouchlineDynasty_RELEASE.rbxlx": {
+    "bytes": 389523,
+    "sha256": "a5bde172e13ab1b56d29c2fab24ee1176dbc0fea3b5e77e0431069cd48763f3c",
+    "git_blob_sha1": "24226648dc0ed2235a5ca6805d0064e549e29db7"
+  },
+  "TouchlineDynasty/assets/audio/README_RU.md": {
+    "bytes": 1198,
+    "sha256": "bcc09440b36cae5019bbfa695cfdd3bfd77e92a94b7980c555ab28beb3bf9f44",
+    "git_blob_sha1": "73804664ceb540ff9601f821d54c5362065c90d7"
+  },
+  "TouchlineDynasty/assets/audio/crowd.wav": {
+    "bytes": 132344,
+    "sha256": "cac4412f10809cb5de39c99a84e95d784eea4a938d31a3abd6ff3762786f6441",
+    "git_blob_sha1": "2512b360b41b99f7070b35fc5c4641596fcfb386"
+  },
+  "TouchlineDynasty/assets/audio/generate.py": {
+    "bytes": 1052,
+    "sha256": "8a1498d85b2d0c79951fe2f085257fafab1e928c6bed6aa6cedc7a438b51ff11",
+    "git_blob_sha1": "0b8e339f5c49c68b21cbea0d43d3d8919a5f0b8e"
+  },
+  "TouchlineDynasty/assets/audio/kick.wav": {
+    "bytes": 6218,
+    "sha256": "dd2f6629960484dc8ccb23f88bb6340d56dad098e7b942fd4f556326e4a1c9c0",
+    "git_blob_sha1": "2e121b65f0e2bb7240524aebd0188ca3b1330c10"
+  },
+  "TouchlineDynasty/assets/audio/ui.wav": {
+    "bytes": 2910,
+    "sha256": "dc1627fde087cc1f19ef5212a1b74bb37d1b1c5c28a5382e48e0c53414f7251a",
+    "git_blob_sha1": "e68255fa96e9f6857940f48a5c6ae3d523066a0b"
+  },
+  "TouchlineDynasty/assets/audio/whistle.wav": {
+    "bytes": 19448,
+    "sha256": "e9a31545c413ca3a05416f35bd372fc68d92ccba6f93f3359e44355dad885233",
+    "git_blob_sha1": "61c69677a254db437e06b7f72f99e4a7ebd878e6"
+  },
+  "TouchlineDynasty/baseline/BALANCE_RAW_before_autoselection.csv": {
+    "bytes": 53579,
+    "sha256": "ea27ceac839d3d05a75098d7b0bc0dfb5c82e7305dac6a34625faa5c415ee2fa",
+    "git_blob_sha1": "66814ef24b26d6e598c74e05bb3c891a1b74717f"
+  },
+  "TouchlineDynasty/baseline/BALANCE_RAW_before_calendar_recovery.csv": {
+    "bytes": 53835,
+    "sha256": "de4aaf640ff2e3529cb6ff7d6da983a98d4b19d0632301a7c8e8b7c94ad702f1",
+    "git_blob_sha1": "667019bb20731b4cfb77308c9c41f0b37331ac30"
+  },
+  "TouchlineDynasty/baseline/BALANCE_RAW_before_infrastructure_calibration.csv": {
+    "bytes": 80630,
+    "sha256": "c15411a4a48b4baf1ab8d350106341c51f02dbace67851a79e02ab6e4bd2909d",
+    "git_blob_sha1": "7dd124ecd981a49df564948287694b71403bda45"
+  },
+  "TouchlineDynasty/baseline/BALANCE_RAW_before_neutral_gates_and_npc_budgets.csv": {
+    "bytes": 80859,
+    "sha256": "c97d800a0224ff54d56fe29802d9eb7f3d6b330d621cd5a3e274d92b67785acd",
+    "git_blob_sha1": "89d488fec726ddaa1f38060fc16becddfca8ae86"
+  },
+  "TouchlineDynasty/baseline/BALANCE_RAW_previous.csv": {
+    "bytes": 53956,
+    "sha256": "06de4d8561cead28ed6a3dda56cbefaf77c4f5b86f302a4fec3986a75e1a22e8",
+    "git_blob_sha1": "78cc38a6f666aef4e0546f813a954a8be5312b18"
+  },
+  "TouchlineDynasty/baseline/QA_REPORT_RU.md": {
+    "bytes": 5805,
+    "sha256": "0ab14faea8d460a1aac1c0056eb8ffec8eb2239ae655440080a4004d5d27be4e",
+    "git_blob_sha1": "e25cb14cea23036b4bfc32ee2422eb49e9327193"
+  },
+  "TouchlineDynasty/baseline/TEST_RESULTS.json": {
+    "bytes": 810,
+    "sha256": "3166a5823520236dfea4096f97179b165a3d4cb5fcb98bfe7b8b9167a0569301",
+    "git_blob_sha1": "3a60b0af4eb6297d0379ec3ee910b6cc9b221ca9"
+  },
+  "TouchlineDynasty/baseline/src/Career.lua": {
+    "bytes": 12358,
+    "sha256": "67b8a7808ef8651a0551ff2aab3c3c8d2b413ddb49537abeece38bbe4419902e",
+    "git_blob_sha1": "073550b3c09d88cda38897f4a170ad9d8ce3b3d0"
+  },
+  "TouchlineDynasty/baseline/src/Client.client.lua": {
+    "bytes": 26162,
+    "sha256": "d3d8887c26beae58810709c4552234d8b32e5a05cb89ed476f4d677ec920078e",
+    "git_blob_sha1": "fe6adbea72e7b4e9b11d1913f151123fe369ffd8"
+  },
+  "TouchlineDynasty/baseline/src/Match.lua": {
+    "bytes": 8491,
+    "sha256": "1d0909b04d9c187087833aa4f218c295880e718a0b062de036922e86f6e457f3",
+    "git_blob_sha1": "1c8f5e2f972e63d523d876e38f6e286f6dc08f18"
+  },
+  "TouchlineDynasty/baseline/src/Server.server.lua": {
+    "bytes": 7651,
+    "sha256": "ab2271bf996bdbccc334fce26e83d4740574935f04108b89c1daa85ff601de3b",
+    "git_blob_sha1": "ac73744e9aec368d4872764af93ebc5d4568196d"
+  },
+  "TouchlineDynasty/baseline/src/Storage.lua": {
+    "bytes": 2902,
+    "sha256": "51d214102d3cf497856a1428c5587e41f8e8d894865d1aeeef51d675ae163ba3",
+    "git_blob_sha1": "8f721d8bdd34e012a98c5082666d260a7e52e729"
+  },
+  "TouchlineDynasty/baseline/tests/mock_roblox.lua": {
+    "bytes": 4234,
+    "sha256": "ef9133d8f77d341678171d40be7f3eb03ead7f84617997b40dc7e1fe4ec5e6eb",
+    "git_blob_sha1": "feb45ac3653b60b715c72c94bb3eafb1054dac6f"
+  },
+  "TouchlineDynasty/baseline/tests/render_mock.py": {
+    "bytes": 1954,
+    "sha256": "6b1f6b1956b86666783e7575d7fe7142dba2636da5af7d10471d7ce87d0dd857",
+    "git_blob_sha1": "5726cb23147fcf7294fa9d1966407e82a7a47aad"
+  },
+  "TouchlineDynasty/baseline/tests/test_client.py": {
+    "bytes": 2461,
+    "sha256": "888df4d7031f35646a37483f61173041c8930833f57c684ec1ad88955bf1f66c",
+    "git_blob_sha1": "b9b0a7b61826df985be40be8248a307dce350799"
+  },
+  "TouchlineDynasty/baseline/tests/test_game.py": {
+    "bytes": 5568,
+    "sha256": "de6af33bdd353918876dd269ef605a80515fe8f0fbc5fc279e3c642c2d6dd0e2",
+    "git_blob_sha1": "c2962b957253b803b7e58ee017d4512bcc02f3be"
+  },
+  "TouchlineDynasty/baseline/tests/test_storage.py": {
+    "bytes": 2424,
+    "sha256": "f9a0c6567a3994ba5f0dc3b690de04d32f4749af5a866c9a047176642207fe4b",
+    "git_blob_sha1": "0af11457642892178fe0aa1081c438a45da31181"
+  },
+  "TouchlineDynasty/build.py": {
+    "bytes": 4378,
+    "sha256": "e56e070b3f0edd3c8759497bd1c02d12429e5d907fbedb5bdce19ef5911684a4",
+    "git_blob_sha1": "f848a9f40d0fff28751be3ab8630d42df5a5874f"
+  },
+  "TouchlineDynasty/localization/Roblox_Cloud_Import.csv": {
+    "bytes": 128065,
+    "sha256": "38d9f6129782c1c4f0def3e2d1e84804a3512855be24e62665a330f5317db9a2",
+    "git_blob_sha1": "72e766b085b70c3e7ab1f7e1bc02dc0358e25125"
+  },
+  "TouchlineDynasty/localization/Ukrainian_Manual.csv": {
+    "bytes": 56191,
+    "sha256": "f288b6fcc045b148ec78c262f817c4adf9fcb3935b9daa7b813051ed2a58e9cf",
+    "git_blob_sha1": "065aec8e365f5648b02193591d51b4a0db184f37"
+  },
+  "TouchlineDynasty/localization/build_locales.py": {
+    "bytes": 2283,
+    "sha256": "d610b8f548ec7c28dc04c50d2d6a0e495929620669ac818c7f0d9d66deeb90a9",
+    "git_blob_sha1": "cec245494a1a220331a9d2dde898ad2a8901af84"
+  },
+  "TouchlineDynasty/localization/strings.json": {
+    "bytes": 121073,
+    "sha256": "c8659419430ce3f10b93951ae461894f6251c5d2047e0c357a19982fda35bcec",
+    "git_blob_sha1": "43ce5caf599ea15c464b9596c83574f925566dc4"
+  },
+  "TouchlineDynasty/localization/strings.tsv": {
+    "bytes": 86007,
+    "sha256": "99aeec7015934479350c888f46faf1621a3cb2ff629a7237087e4142cb3c57b7",
+    "git_blob_sha1": "ce607fb8693e5fc8805caadde7a9adb24962bbbe"
+  },
+  "TouchlineDynasty/src/Audio.lua": {
+    "bytes": 1700,
+    "sha256": "c4f8050745719727fdf21d31f930bb6abdac0b48ebd4f9c62faafc2213684c46",
+    "git_blob_sha1": "6f49b1bf924dad26dfd6c12f082f0447a46b7250"
+  },
+  "TouchlineDynasty/src/AudioConfig.lua": {
+    "bytes": 384,
+    "sha256": "d6cb7119040c177ec6f735df3607669f2bc531ea36f8e4a73e712944b8ed6015",
+    "git_blob_sha1": "b238baa2d251b16237553c9cfc9ee43ed4fa16b7"
+  },
+  "TouchlineDynasty/src/Branding.lua": {
+    "bytes": 2366,
+    "sha256": "3b75f6338767847d4382445dc4c196f76e4cb1e79067f18ef5732e197df1142f",
+    "git_blob_sha1": "00d7785da48586020a2b3a51aa7b97ec3424ff5f"
+  },
+  "TouchlineDynasty/src/Career.lua": {
+    "bytes": 42188,
+    "sha256": "0bfeffe217d6745937d78a35f0d0d5334ffc5d9fdc6ed4eb73120025d7a2eec5",
+    "git_blob_sha1": "85a3767b90918027f8a94d59dc02cb696ee1d5b4"
+  },
+  "TouchlineDynasty/src/CareerScreens.lua": {
+    "bytes": 25454,
+    "sha256": "31486979e48650653954fd546f0f9daa4bde656c85c6cd17aa6a79a8e08016fa",
+    "git_blob_sha1": "b93f97c70ff5fd87cdfd40252b22dbe0cdeb1915"
+  },
+  "TouchlineDynasty/src/Client.client.lua": {
+    "bytes": 7417,
+    "sha256": "db98ec1aaf59e4b21c5fa9ca28584e915fe843ba92082f1d2f59892fad74e386",
+    "git_blob_sha1": "c429f36c9eb0f52a9278fcd6492d95413e9a8524"
+  },
+  "TouchlineDynasty/src/Diagnostics.lua": {
+    "bytes": 2165,
+    "sha256": "8c04bb2115705f05e1e99dc36ad64ac5fb9fdf701e936754d84f707dd5d4a258",
+    "git_blob_sha1": "1860eb868fdf1e4239f7fa332ca5c4dbdb243866"
+  },
+  "TouchlineDynasty/src/Economy.lua": {
+    "bytes": 4849,
+    "sha256": "e9591e4f4028693c3416a1b57f5eb96c0d0d583faeff1e5135f73ee49514c364",
+    "git_blob_sha1": "0415a55ff8f4d79ccb324e5047900131ad308d55"
+  },
+  "TouchlineDynasty/src/EconomyConfig.lua": {
+    "bytes": 1138,
+    "sha256": "a6f87befbf62b226332f8528d37daf64bae0e345cd7b7af33a0509e5b5de71d6",
+    "git_blob_sha1": "4bfa892db3bdb648863b8dd57f232fac90b8c95d"
+  },
+  "TouchlineDynasty/src/Input.lua": {
+    "bytes": 8852,
+    "sha256": "6d24cb15a44708fd7e169c67d72db22a095fc63ded8e57d03ad09d6c88309988",
+    "git_blob_sha1": "04cc0f3efc61cdf9d7216a422e7b819c1ffde6ec"
+  },
+  "TouchlineDynasty/src/Loans.lua": {
+    "bytes": 2193,
+    "sha256": "a7c40ecc27dcf299ebe6b6f8cb8d46b7c3317f7975dcc2b7be85a5b90e821e21",
+    "git_blob_sha1": "fe44c2afc7be6a333fb05f9acad6f58f138c480b"
+  },
+  "TouchlineDynasty/src/Locales.lua": {
+    "bytes": 126392,
+    "sha256": "9620f358c7adca726b18e2bbc2b9f76fa0411a7e57fcbd359fb23a2655388e15",
+    "git_blob_sha1": "e218a24716e06fb6244fd0251db7e117cbc72634"
+  },
+  "TouchlineDynasty/src/Localization.lua": {
+    "bytes": 8392,
+    "sha256": "0ce4908d1e369deab21bac5357ca13bd1c42fb4faaecaced86677d8ee02243a8",
+    "git_blob_sha1": "d194f0482aa57c7134b1888eecb7421cff68092c"
+  },
+  "TouchlineDynasty/src/Market.lua": {
+    "bytes": 7744,
+    "sha256": "93571c67f10d65fa80c9a09d0cf2d5bcd74b43773fa374c73e400c6a0cd71f08",
+    "git_blob_sha1": "fb1c2d5394913a82fbc5154f838730528914878d"
+  },
+  "TouchlineDynasty/src/Match.lua": {
+    "bytes": 29340,
+    "sha256": "7da5b1c26e2ae804075d6ff1daeb86d61953c379daaef9badcf9fcd5cd8e04f1",
+    "git_blob_sha1": "499e7092545c0aa5730a0bc5cf67eb5152db89bb"
+  },
+  "TouchlineDynasty/src/MatchConfig.lua": {
+    "bytes": 710,
+    "sha256": "88f631f14bbb1f25937789fc2d789b309da28f32c300e4eb30a497a0cafe916b",
+    "git_blob_sha1": "46d4cb652b4e5267781940cf4fb5d0f34fe62eb2"
+  },
+  "TouchlineDynasty/src/MatchView.lua": {
+    "bytes": 13948,
+    "sha256": "de9edc9e6aea94aed9380e21de8745cd55a43b42138b74da452e4383ae136f96",
+    "git_blob_sha1": "408a7eb1237a4aded0231b767beb9ac3f00da2ed"
+  },
+  "TouchlineDynasty/src/Monetization.lua": {
+    "bytes": 9748,
+    "sha256": "ad2b6fc2a9b049026c610b7e5c2b0a2f829384168b32cb24a87ff9be06db71d8",
+    "git_blob_sha1": "e1c604cb426c3b57bff2bdf8307ebb46ac76ea52"
+  },
+  "TouchlineDynasty/src/MonetizationConfig.lua": {
+    "bytes": 2794,
+    "sha256": "90c892558eaded2ac84b0279100406e518085fd36570162d2c655dc7fb03446b",
+    "git_blob_sha1": "fee69ddfbdb7a1279ce0f21d9f0002efc6e4040f"
+  },
+  "TouchlineDynasty/src/Players.lua": {
+    "bytes": 6439,
+    "sha256": "21148d2a097dfc184d84f8a730c4ccba5c8f6e26362203417bebda7e743d94a3",
+    "git_blob_sha1": "77a1453525e795e0565630658e35edfd2ca738da"
+  },
+  "TouchlineDynasty/src/Records.lua": {
+    "bytes": 2626,
+    "sha256": "38bbd1e1be842eff6916b05048fd2999a9fbc547b216899e317dcd487d6a9688",
+    "git_blob_sha1": "f09a60bb26b37f5e3efe6882364f47f120e46f7b"
+  },
+  "TouchlineDynasty/src/Results.lua": {
+    "bytes": 2376,
+    "sha256": "df4ea4b10fced0d7bbb1e36c2f5830f30e26964e37c9b0829951e9c73045e4f5",
+    "git_blob_sha1": "bd1cbec4528cd0b7ab7b6e189edaced32d55f70d"
+  },
+  "TouchlineDynasty/src/Server.server.lua": {
+    "bytes": 11966,
+    "sha256": "424f1e8bd7ba58257324974185d42a7d98c0950a15a33e004e77538b590724fc",
+    "git_blob_sha1": "f0ba4c6c5d51b78ee7c29d91a3ffdf41b4021d56"
+  },
+  "TouchlineDynasty/src/Storage.lua": {
+    "bytes": 10506,
+    "sha256": "dcc442ffe908addb50e988105eb342d02e1fe5ffcecc2fb4d75b0a3f0a71f32e",
+    "git_blob_sha1": "11425319ff9db36395ff95342c0318090e2d3e0e"
+  },
+  "TouchlineDynasty/src/StudioQA.lua": {
+    "bytes": 2696,
+    "sha256": "e2528094660848cfc00f554d13d0ff4c475b293bd9c8f73e0463d90eb7eaca94",
+    "git_blob_sha1": "e64e9ca36fff38ca542720788a2bdec3c8b70b10"
+  },
+  "TouchlineDynasty/src/Tournaments.lua": {
+    "bytes": 11745,
+    "sha256": "7c696ca4612c0067aab3acc6495a93619ff3c6fe7521b30329a5d2d86ea0a67e",
+    "git_blob_sha1": "0bec5b71fab8d0acbc891b27f3ee5071362779fa"
+  },
+  "TouchlineDynasty/src/Training.lua": {
+    "bytes": 2220,
+    "sha256": "96db2fae8e81faa40e5679027fefd27c8edf61b26ece944f223be722cf7cc74b",
+    "git_blob_sha1": "7db1b6a3b6058d2f6b7ce44302f880065d6ab9ac"
+  },
+  "TouchlineDynasty/src/UI.lua": {
+    "bytes": 15241,
+    "sha256": "80cdca9743fa2aaf66cd6591e172589760243961fb63df619ad90a3209826ee3",
+    "git_blob_sha1": "caf8893cca658434db703968f71f4b7f6978c6d2"
+  },
+  "TouchlineDynasty/src/World.lua": {
+    "bytes": 10957,
+    "sha256": "81cfc98783d7b80d18853a849646bb5751f588695373144835fea617939ae6de",
+    "git_blob_sha1": "da17104ec3f199fb5505d164f7f27f42ca789a48"
+  },
+  "TouchlineDynasty/src/WorldConfig.lua": {
+    "bytes": 2839,
+    "sha256": "a4efecf650f0fb241e54d5938074cd820f021fd6b60beecfb4715db9c3f83db4",
+    "git_blob_sha1": "e3b3c4653370d2f24ee55d556f4c920d547dc4f2"
+  },
+  "TouchlineDynasty/tests/balance_native.py": {
+    "bytes": 4320,
+    "sha256": "859b4a046668693b0f63147e313bea0873a8d316165b4f3f7ae88305bd880f33",
+    "git_blob_sha1": "f4b426364e6bc370d96c0f50404b23d8942e7e00"
+  },
+  "TouchlineDynasty/tests/balance_run.txt": {
+    "bytes": 325,
+    "sha256": "9f3abe910487764167ccd6428a1e68e45c13967a777383207e6704a56304645c",
+    "git_blob_sha1": "d9ff9000229fc943c8273c9dc89db149991f8e68"
+  },
+  "TouchlineDynasty/tests/latest_run.txt": {
+    "bytes": 4605,
+    "sha256": "89296a433ee4a23f5928f05144c70f5baf846648dbdc31d3cd0716ed6c5c5b3d",
+    "git_blob_sha1": "78ecc91c51837d822577867b2aedd6c09d14ba5e"
+  },
+  "TouchlineDynasty/tests/mock_roblox.lua": {
+    "bytes": 4382,
+    "sha256": "94aaa2be9736add1dfed7aa5e7578447d6d1da72cfbde992a07a86287f32cfc9",
+    "git_blob_sha1": "77f5827e3a306413eb645613725adc976af2fe54"
+  },
+  "TouchlineDynasty/tests/native_check.py": {
+    "bytes": 23541,
+    "sha256": "62adb1cd19ea448d68a209fabef6ce4f9475ed2897f987ca90188d1684d81409",
+    "git_blob_sha1": "7c2fa48b1c50ffa5e2843b10dd662bc30ddc4a20"
+  },
+  "TouchlineDynasty/tests/performance_native.py": {
+    "bytes": 1109,
+    "sha256": "9e11cb3e855cc7c2bd6ab28b9415f564596a4887d4270bbfe83d75079cf19cae",
+    "git_blob_sha1": "558907bb78892a21492f46eaa12440eb07f444a0"
+  },
+  "TouchlineDynasty/tests/render_mock.py": {
+    "bytes": 1954,
+    "sha256": "6b1f6b1956b86666783e7575d7fe7142dba2636da5af7d10471d7ce87d0dd857",
+    "git_blob_sha1": "5726cb23147fcf7294fa9d1966407e82a7a47aad"
+  },
+  "TouchlineDynasty/tests/report.py": {
+    "bytes": 8700,
+    "sha256": "db9b3b48512a84bd7c2c9a5f846d332d01763b2dd9bcaf169859d11ddbbd9a55",
+    "git_blob_sha1": "c78a12a70eafbb7d04a2bc8e8108f6e059ac9614"
+  },
+  "TouchlineDynasty/tests/soak_native.py": {
+    "bytes": 1093,
+    "sha256": "bbfe85cc25bb442a4291ff5ad962a8772d86d2872b1d1466f1f6dd4832992222",
+    "git_blob_sha1": "b0691c1cb5129edc48b0c386df83ff04bd240b4a"
+  },
+  "TouchlineDynasty/tests/style_native.py": {
+    "bytes": 920,
+    "sha256": "bca3bcb162cc69e6326e025403ad63faf9911714ab2e4e485f5219376ec1bbef",
+    "git_blob_sha1": "ad79518e881f011d598add4dbf76b01f3f71555b"
+  },
+  "TouchlineDynasty/tests/test_client.py": {
+    "bytes": 242,
+    "sha256": "9700ae321ca7e739eda3f092530611aeec2a52444cfbaeb994f243f753897203",
+    "git_blob_sha1": "8c172a07cc4f4004e51333515f7e075ca8ebb9a4"
+  },
+  "TouchlineDynasty/tests/test_game.py": {
+    "bytes": 211,
+    "sha256": "24eb0f741c5d5a2f2f4c9da881eab568531f202e14bba6485ee21b0361beba9d",
+    "git_blob_sha1": "fc28b99987cec76e76b39b57688a64681f5a56dc"
+  },
+  "TouchlineDynasty/tests/test_localization.py": {
+    "bytes": 6284,
+    "sha256": "7bf00cb70f05d084ccd83437f9d6685e40d51bdab35b1bb70a9dbc3d7a580e26",
+    "git_blob_sha1": "81293b5fd5a6d281dc49ae81dbf0c6b0d6ab57e0"
+  },
+  "TouchlineDynasty/tests/test_match.py": {
+    "bytes": 7167,
+    "sha256": "b98743ac3afa77c96d8ddcda2ca891e466c017f1edec5b36d067aa6d70aa1f65",
+    "git_blob_sha1": "d2cd4e68e252d5f7a76debb8d735ded6baa13288"
+  },
+  "TouchlineDynasty/tests/test_monetization.py": {
+    "bytes": 5542,
+    "sha256": "f3b8d991720dc7cf246d2735b008d21a65d0421fe0c0fc25261d09405ad4f644",
+    "git_blob_sha1": "9f8308ba257c8cb9fce351040a4ab74d4cb451dd"
+  },
+  "TouchlineDynasty/tests/test_storage.py": {
+    "bytes": 7127,
+    "sha256": "a872b5525673cd8bbbf3542bd6a423b4a0eb350bd46dd8bf66728c4f4e18554a",
+    "git_blob_sha1": "4fdb68ea78717cfa511506fb0b75989b9b016aa0"
+  },
+  "TouchlineDynasty/tests/test_world.py": {
+    "bytes": 7084,
+    "sha256": "8bb4bdd49b9c6126e60f46e21786cab882231e1449d8830864fd9dd336a39068",
+    "git_blob_sha1": "6366d44efc7a563dde0f8d562199360c0c0958dd"
+  },
+  "TouchlineDynasty_FINAL.zip": {
+    "bytes": 833963,
+    "sha256": "9fd40d04c53ca2e32ced5529df53d97256d13401d0e71a70def3d143fe71a130",
+    "git_blob_sha1": "0154fbb3c55b32c3b40909ed664343d49034ea11"
+  },
+  "TouchlineDynasty_FINAL.rbxlx": {
+    "bytes": 389523,
+    "sha256": "a5bde172e13ab1b56d29c2fab24ee1176dbc0fea3b5e77e0431069cd48763f3c",
+    "git_blob_sha1": "24226648dc0ed2235a5ca6805d0064e549e29db7"
+  },
+  "TouchlineDynasty_RELEASE.zip": {
+    "bytes": 833963,
+    "sha256": "9fd40d04c53ca2e32ced5529df53d97256d13401d0e71a70def3d143fe71a130",
+    "git_blob_sha1": "0154fbb3c55b32c3b40909ed664343d49034ea11"
+  },
+  "TouchlineDynasty_RELEASE.rbxlx": {
+    "bytes": 389523,
+    "sha256": "a5bde172e13ab1b56d29c2fab24ee1176dbc0fea3b5e77e0431069cd48763f3c",
+    "git_blob_sha1": "24226648dc0ed2235a5ca6805d0064e549e29db7"
+  },
+  "TouchlineDynasty_FULL_CODE.txt": {
+    "bytes": 389523,
+    "sha256": "a5bde172e13ab1b56d29c2fab24ee1176dbc0fea3b5e77e0431069cd48763f3c",
+    "git_blob_sha1": "24226648dc0ed2235a5ca6805d0064e549e29db7"
+  },
+  "TouchlineDynasty_RECREATE_FULL_PROMPT_RU.md": {
+    "bytes": 1153600,
+    "sha256": "84d68757e997abd9bcf92c02a6c343074a89ca1daaa2d8edba3cba60f02264af",
+    "git_blob_sha1": "39d89f63454ca6d435aff27eb13a1b63a8a159dc"
+  }
+}

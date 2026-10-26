@@ -1,0 +1,11 @@
+BALANCE careers completed	100
+BALANCE careers completed	200
+BALANCE careers completed	300
+BALANCE careers completed	400
+BALANCE careers completed	500
+BALANCE careers completed	600
+BALANCE careers completed	700
+BALANCE careers completed	800
+BALANCE careers completed	900
+BALANCE careers completed	1000
+Elapsed seconds 651.763

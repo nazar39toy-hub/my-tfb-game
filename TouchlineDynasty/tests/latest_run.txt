@@ -1,0 +1,67 @@
+PASS syntax Audio.lua assertions passed
+PASS syntax AudioConfig.lua assertions passed
+PASS syntax Branding.lua assertions passed
+PASS syntax Career.lua assertions passed
+PASS syntax CareerScreens.lua assertions passed
+PASS syntax Client.client.lua assertions passed
+PASS syntax Diagnostics.lua assertions passed
+PASS syntax Economy.lua assertions passed
+PASS syntax EconomyConfig.lua assertions passed
+PASS syntax Input.lua assertions passed
+PASS syntax Loans.lua assertions passed
+PASS syntax Locales.lua assertions passed
+PASS syntax Localization.lua assertions passed
+PASS syntax Market.lua assertions passed
+PASS syntax Match.lua assertions passed
+PASS syntax MatchConfig.lua assertions passed
+PASS syntax MatchView.lua assertions passed
+PASS syntax Monetization.lua assertions passed
+PASS syntax MonetizationConfig.lua assertions passed
+PASS syntax Players.lua assertions passed
+PASS syntax Records.lua assertions passed
+PASS syntax Results.lua assertions passed
+PASS syntax Server.server.lua assertions passed
+PASS syntax Storage.lua assertions passed
+PASS syntax StudioQA.lua assertions passed
+PASS syntax Tournaments.lua assertions passed
+PASS syntax Training.lua assertions passed
+PASS syntax UI.lua assertions passed
+PASS syntax World.lua assertions passed
+PASS syntax WorldConfig.lua assertions passed
+PASS 320 stable original clubs, 20 persistent divisions and 30 symmetric rounds assertions passed
+PASS 96 and 32 real-club cup fields, preliminary seeding and five-round brackets assertions passed
+PASS International qualification is unique with explicit duplicate-winner fallback assertions passed
+PASS Unified fixture order, no menu RNG changes, duplicate finalization rejected assertions passed
+PASS 35 seasons preserve identities, 16-club divisions, reciprocal promotion and growing records assertions passed
+PASS Simulated penalty shootouts record football kicks and reproducible winners assertions passed
+PASS 22 role-adjusted footballers and venue semantics assertions passed
+PASS Halftime and extra-time switch ends assertions passed
+PASS Goals, assists and own goals are user-oriented on away venue assertions passed
+PASS Throw-ins, corners and goal kicks have correct beneficiary assertions passed
+PASS Simplified offside on targeted forward pass assertions passed
+PASS Red cards remove players; substitutions cannot restore them assertions passed
+PASS Penalty shootout decisions, early finish and no repeated finish assertions passed
+PASS Snapshots and mode switching do not advance RNG assertions passed
+PASS Sprinting is bounded by stamina; invalid values cannot poison state assertions passed
+PASS Deterministic complete simulation and bounded replay/events assertions passed
+PASS career 31 seasons with forfeit and duplicate finalization assertions passed
+PASS goalkeeper reservation prevents a hole after roster turnover assertions passed
+PASS free agent immediate resale and no repeat purchase assertions passed
+PASS legacy v1 migration preserves club assets and does not repeat assertions passed
+PASS localization: locale, fallback, numbers and expanded strings assertions passed
+PASS training isolation, fixed challenge, exact-once cosmetics and tutorial steps assertions passed
+PASS record categories, anomalous values, monotonic writes and throttled reads assertions passed
+PASS automatic XI selects strongest eligible goalkeeper and roles assertions passed
+PASS highlights control is limited to episodes and shootouts stay manual assertions passed
+PASS full roster suspensions cannot deadlock finalization or farm technical defeats assertions passed
+PASS calendar recovery is free, capped and preparation charges wages once assertions passed
+PASS substitution preserves departed ratings, fitness and substitute experience assertions passed
+PASS former clubs age their squads and retain bounded detail without losing cash assertions passed
+PASS board rewards settle once, active manager contract blocks job cycling, club debts remain assertions passed
+PASS outgoing loans reserve squad depth, split wages, advance once and block duplicate sales assertions passed
+PASS branding filters before mutation and enforces names and premium entitlement assertions passed
+PASS own and academy scouting use regional reports with exact-once charges assertions passed
+PASS set-piece selection, four formation lines, shootout order and red-card keeper substitution assertions passed
+PASS test_storage.py adapter scenarios assertions passed
+PASS test_monetization.py adapter scenarios assertions passed
+PASS modular UI construction and grouped pages (mock, not Studio) assertions passed
